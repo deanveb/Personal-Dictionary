@@ -1,0 +1,39 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653686450.6129.1772524831@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KChastise[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KChastise[m[K \Chas*tise"\ (ch[a^]s*t[imac]z"; ch[a^]s"t[imac]z), v.
+   t. [imp. & p. p. {[01;31m[KChastise[m[Kd} (ch[a^]s*t[imac]zd"); p. pr. &
+   vb. n. {Chastising}.] [OE. [01;31m[Kchastise[m[Kn; chastien + ending -isen
+   + modern -ise, -ize, L. -izare, Gr. -i`zein. See {Chasten}.]
+   [01;31m[K1. [m[KTo inflict pain upon, by means of stripes, or in any other
+      manner, for the purpose of punishment or reformation; to
+      punish, as with stripes.
+      [1913 Webster]
+
+            How fine my master is! I am afraid
+            He will [01;31m[Kchastise[m[K me.                  --Shak.
+      [1913 Webster]
+
+            I am glad to see the vanity or envy of the canting
+            chemists thus discovered and [01;31m[Kchastise[m[Kd. --Boyle.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo reduce to order or obedience; to correct or purify; to
+      free from faults or excesses.
+      [1913 Webster]
+
+            The gay, social sense, by decency [01;31m[Kchastise[m[Kd.
+                                                  --Thomson.
+
+   [01;31m[K3. [m[KTo criticize (a person) strongly and directly in order to
+      correct behavior.
+
+   Syn: castigate, objurgate, chasten, correct, dress down.
+        [PJC]
+
+   Syn: See {Chasten}.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

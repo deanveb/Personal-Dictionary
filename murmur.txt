@@ -1,0 +1,57 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653685971.5483.1772524781@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[KMurmur[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KMurmur[m[K \Mur"mur\, n. [F. [01;31m[Kmurmur[m[Ke: cf. L. [01;31m[Kmurmur[m[K. CF. {[01;31m[KMurmur[m[K},
+   v. i.]
+   [01;31m[K1. [m[KA low, confused, and indistinct sound, like that of
+      running water.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KA complaint half suppressed, or uttered in a low,
+      muttering voice. --Chaucer.
+      [1913 Webster]
+
+            Some discontents there are, some idle [01;31m[Kmurmur[m[Ks.
+                                                  --Dryden.
+      [1913 Webster]
+.
+151 "[01;31m[KMurmur[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KMurmur[m[K \Mur"mur\, v. i. [imp. & p. p. {[01;31m[KMurmur[m[Ked}; p. pr. & vb.
+   n. {[01;31m[KMurmur[m[King}.] [F. [01;31m[Kmurmur[m[Ker, L. [01;31m[Kmurmur[m[Kare, [01;31m[Kmurmur[m[Kari, fr.
+   [01;31m[Kmurmur[m[K [01;31m[Kmurmur[m[K; cf. Gr. ? to roar and boil, said of water,
+   Skr. marmara a rustling sound; prob. of imitative origin.]
+   [01;31m[K1. [m[KTo make a low continued noise, like the hum of bees, a
+      stream of water, distant waves, or the wind in a forest.
+      [1913 Webster]
+
+            They [01;31m[Kmurmur[m[Ked as doth a swarm of bees. --Chaucer.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo utter complaints in a low, half-articulated voice; to
+      feel or express dissatisfaction or discontent; to grumble;
+      -- often with at or against. "His disciples [01;31m[Kmurmur[m[Ked at
+      it." --John vi. 61.
+      [1913 Webster]
+
+            And all the children of Israel [01;31m[Kmurmur[m[Ked against
+            Moses and against Aaron.              --Num. xiv. 2.
+      [1913 Webster]
+
+            Neither [01;31m[Kmurmur[m[K ye, as some of them also [01;31m[Kmurmur[m[Ked.
+                                                  --1 Cor. x.
+                                                  10.
+      [1913 Webster]
+.
+151 "[01;31m[KMurmur[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KMurmur[m[K \Mur"mur\, v. t.
+   To utter or give forth in low or indistinct [01;31m[Kword[m[Ks or sounds;
+   as, to [01;31m[Kmurmur[m[K tales. --Shak.
+   [1913 Webster]
+
+         The people [01;31m[Kmurmur[m[Ked such things concerning him. --John
+                                                  vii. 32.
+   [1913 Webster]
+.
+250 ok [d/m/c = 3/0/19; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

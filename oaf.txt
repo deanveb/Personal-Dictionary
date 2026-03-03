@@ -1,0 +1,25 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653128950.11722.1772466869@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KOaf[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KOaf[m[K \[01;31m[KOaf[m[K\ ([=o]f), n. [See {Auf}.]
+   [01;31m[K1. [m[KOriginally, an elf's child; a changeling left by fairies
+      or goblins; hence, a deformed or foolish child; a
+      simpleton; an idiot.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KA clumsy or awkward person.
+
+   Syn: klutz, clod, lummox, stumblebum.
+        [PJC]
+.
+151 "[01;31m[Koaf[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Auf \Auf\ ([add]f), n. [OE. auph, aulf, fr. Icel. [=a]lfr elf.
+   See {Elf}.] [Also spelt {[01;31m[Koaf[m[K}, {ouphe}.]
+   A changeling or elf child, -- that is, one left by fairies; a
+   deformed or foolish child; a simpleton; an [01;31m[Koaf[m[K. [Obs.]
+   --Drayton.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

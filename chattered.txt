@@ -1,0 +1,32 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653688591.9166.1772525058@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KChattered[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Chatter \Chat"ter\, v. i. [imp. & p. p. {[01;31m[KChattered[m[K}; p. pr. &
+   vb. n. {Chattering}.] [Of imitative origin. Cf. {Chat}, v. i.
+   {Chitter}.]
+   [01;31m[K1. [m[KTo utter sounds which somewhat resemble language, but are
+      inarticulate and indistinct.
+      [1913 Webster]
+
+            The jaw makes answer, as the magpie chatters.
+                                                  --[01;31m[KWord[m[Ksworth.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo talk idly, carelessly, or with undue rapidity; to
+      jabber; to prate.
+      [1913 Webster]
+
+            To tame a shrew, and charm her chattering tongue.
+                                                  --Shak.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo make a noise by rapid collisions.
+      [1913 Webster]
+
+            With chattering teeth, and bristling hair upright.
+                                                  --Dryden.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

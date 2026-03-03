@@ -1,0 +1,15 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653685819.5267.1772524767@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KFurtive[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KFurtive[m[K \Fur"tive\, a. [L. furtivus, fr. furtum theft, fr. fur
+   thief, akin to ferre to bear: cf. F. furtif. See {Fertile}.]
+   Stolen; obtained or characterized by stealth; sly; secret;
+   stealthy; as, a [01;31m[Kfurtive[m[K look. --Prior.
+   [1913 Webster]
+
+         A hasty and [01;31m[Kfurtive[m[K ceremony.            --Hallam.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,75 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653099824.28817.1772464029@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KReproach[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReproach[m[K \Re*proach"\ (r?-pr?ch"), v. t. [imp. & p. p.
+   {[01;31m[KReproach[m[Ked} (-pr?cht"); p. pr. & vb. n. {[01;31m[KReproach[m[King}.] [F.
+   reprocher, OF. reprochier, (assumed) LL. reproriare; L. pref.
+   re- again, against, back + prope near; hence, originally, to
+   bring near to, throw in one's teeth. Cf. {Approach}.]
+   [01;31m[K1. [m[KTo come back to, or come home to, as a matter of blame; to
+      bring shame or disgrace upon; to disgrace. [Obs.]
+      [1913 Webster]
+
+            I thought your marriage fit; else imputation,
+            For that he knew you, might [01;31m[Kreproach[m[K your life.
+                                                  --Shak.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo attribute blame to; to allege something disgraceful
+      against; to charge with a fault; to censure severely or
+      contemptuously; to upbraid.
+      [1913 Webster]
+
+            If ye be [01;31m[Kreproach[m[Ked for the name of Christ. --1
+                                                  Peter iv. 14.
+      [1913 Webster]
+
+            That this newcomer, Shame,
+            There sit not, and [01;31m[Kreproach[m[K us as unclean. --Milton.
+      [1913 Webster]
+
+            Mezentius . . . with his ardor warmed
+            His fainting friends, [01;31m[Kreproach[m[Ked their shameful
+            flight.
+            Repelled the victors.                 --Dryden.
+      [1913 Webster]
+
+   Syn: To upbraid; censure; blame; chide; rebuke; condemn;
+        revile; vilify.
+        [1913 Webster]
+.
+151 "[01;31m[KReproach[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReproach[m[K \Re*proach"\, n. [F. reproche. See {[01;31m[KReproach[m[K}, v.]
+   [1913 Webster]
+   [01;31m[K1. [m[KThe act of [01;31m[Kreproach[m[King; censure mingled with contempt;
+      contumelious or opprobrious language toward any person;
+      abusive reflections; as, severe [01;31m[Kreproach[m[K.
+      [1913 Webster]
+
+            No [01;31m[Kreproach[m[Kes even, even when pointed and barbed
+            with the sharpest wit, appeared to give him pain.
+                                                  --Macaulay.
+      [1913 Webster]
+
+            Give not thine heritage to [01;31m[Kreproach[m[K.  --Joel ii. 17.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KA cause of blame or censure; shame; disgrace.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KAn object of blame, censure, scorn, or derision.
+      [1913 Webster]
+
+            Come, and let us build up the wall of Jerusalem,
+            that we be no more a [01;31m[Kreproach[m[K.        --Neh. ii. 17.
+      [1913 Webster]
+
+   Syn: Disrepute; discredit; dishonor; opprobrium; invective;
+        contumely; reviling; abuse; vilification; scurrility;
+        insolence; insult; scorn; contempt; ignominy; shame;
+        scandal;; disgrace; infamy.
+        [1913 Webster]
+.
+250 ok [d/m/c = 2/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,55 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653677495.24537.1772523865@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KTangent[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KTangent[m[K \Tan"gent\, a. [L. tangens, -entis, p. pr.]
+   Touching; touching at a single point; specifically (Geom.)
+   meeting a curve or surface at a point and having at that
+   point the same direction as the curve or surface; -- said of
+   a straight line, curve, or surface; as, a line [01;31m[Ktangent[m[K to a
+   curve; a curve [01;31m[Ktangent[m[K to a surface; [01;31m[Ktangent[m[K surfaces.
+   [1913 Webster]
+
+   {[01;31m[KTangent[m[K plane} (Geom.), a plane which touches a surface in a
+      point or line.
+
+   {[01;31m[KTangent[m[K scale} (Gun.), a kind of breech sight for a cannon.
+      
+
+   {[01;31m[KTangent[m[K screw} (Mach.), an endless screw; a worm.
+      [1913 Webster]
+      [1913 Webster]
+.
+151 "[01;31m[KTangent[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KTangent[m[K \Tan"gent\, n. [L. tangens, -entis, p. pr. of tangere to
+   touch; akin to Gr. ? having seized: cf. F. [01;31m[Ktangent[m[Ke. Cf.
+   {Attain}, {Contaminate}, {Contingent}, {Entire}, {Tact},
+   {Taste}, {Tax}, v. t.] (Geom.)
+   A [01;31m[Ktangent[m[K line curve, or surface; specifically, that portion
+   of the straight line [01;31m[Ktangent[m[K to a curve that is between the
+   point of tangency and a given line, the given line being, for
+   example, the axis of abscissas, or a radius of a circle
+   produced. See {Trigonometrical function}, under {Function}.
+   [1913 Webster]
+
+   {Artificial [01;31m[Ktangent[m[K}, or {Logarithmic [01;31m[Ktangent[m[K}, the logarithm
+      of the natural [01;31m[Ktangent[m[K of an arc.
+
+   {Natural [01;31m[Ktangent[m[K}, a decimal expressing the length of the
+      [01;31m[Ktangent[m[K of an arc, the radius being reckoned unity.
+
+   {[01;31m[KTangent[m[K galvanometer} (Elec.), a form of galvanometer having
+      a circular coil and a short needle, in which the [01;31m[Ktangent[m[K
+      of the angle of deflection of the needle is proportional
+      to the strength of the current.
+
+   {[01;31m[KTangent[m[K of an angle}, the natural [01;31m[Ktangent[m[K of the arc
+      subtending or measuring the angle.
+
+   {[01;31m[KTangent[m[K of an arc}, a right line, as ta, touching the arc of
+      a circle at one extremity a, and terminated by a line ct,
+      passing from the center through the other extremity o.
+      [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

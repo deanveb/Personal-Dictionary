@@ -1,0 +1,61 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653098551.27254.1772463912@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KDiligence[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KDiligence[m[K \Di`li*gence"\, n. [F.]
+   A four-wheeled public stagecoach, used in France.
+   [1913 Webster]
+.
+151 "[01;31m[KDiligence[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KDiligence[m[K \Dil"i*gence\, n. [F. [01;31m[Kdiligence[m[K, L. diligentia.]
+   [01;31m[K1. [m[KThe quality of being diligent; carefulness; careful
+      attention; -- the opposite of negligence.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KInterested and persevering application; devoted and
+      painstaking effort to accomplish what is undertaken;
+      assiduity in service.
+      [1913 Webster]
+
+            That which ordinary men are fit for, I am qualified
+            in; and the best of me is [01;31m[Kdiligence[m[K.  --Shak.
+      [1913 Webster]
+
+   [01;31m[K3. [m[K(Scots Law) Process by which persons, lands, or effects
+      are seized for debt; process for enforcing the attendance
+      of witnesses or the production of writings.
+      [1913 Webster]
+
+   {To do one's [01;31m[Kdiligence[m[K}, {give [01;31m[Kdiligence[m[K}, {use [01;31m[Kdiligence[m[K},
+      to exert one's self; to make interested and earnest
+      endeavor.
+      [1913 Webster]
+
+            And each of them doth all his [01;31m[Kdiligence[m[K
+            To do unto the fest['e] reverence.    --Chaucer.
+
+   Syn: Attention; industry; assiduity; sedulousness;
+        earnestness; constancy; heed; heedfulness; care;
+        caution. -- {[01;31m[KDiligence[m[K}, {Industry}. Industry has the
+        wider sense of the two, implying an habitual devotion to
+        labor for some valuable end, as knowledge, property,
+        etc. [01;31m[KDiligence[m[K denotes earnest application to some
+        specific object or pursuit, which more or less directly
+        has a strong hold on one's interests or feelings. A man
+        may be diligent for a time, or in seeking some favorite
+        end, without meriting the title of industrious. Such was
+        the case with Fox, while Burke was eminent not only for
+        [01;31m[Kdiligence[m[K, but industry; he was always at work, and
+        always looking out for some new field of mental effort.
+        [1913 Webster]
+
+              The sweat of industry would dry and die,
+              But for the end it works to.        --Shak.
+        [1913 Webster]
+
+              [01;31m[KDiligence[m[K and accuracy are the only merits which
+              an historical writer ascribe to himself. --Gibbon.
+        [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

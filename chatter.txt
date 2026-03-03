@@ -1,0 +1,53 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653688634.9235.1772525063@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[KChatter[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KChatter[m[K \Chat"ter\, n.
+   [01;31m[K1. [m[KSounds like those of a magpie or monkey; idle talk; rapid,
+      thoughtless talk; jabber; prattle.
+      [1913 Webster]
+
+            Your [01;31m[Kword[m[Ks are but idle and empty [01;31m[Kchatter[m[K.
+                                                  --Longfellow.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KNoise made by collision of the teeth, as in shivering.
+      [1913 Webster]
+.
+151 "[01;31m[KChatter[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KChatter[m[K \Chat"ter\, v. i. [imp. & p. p. {[01;31m[KChatter[m[Ked}; p. pr. &
+   vb. n. {[01;31m[KChatter[m[King}.] [Of imitative origin. Cf. {Chat}, v. i.
+   {Chitter}.]
+   [01;31m[K1. [m[KTo utter sounds which somewhat resemble language, but are
+      inarticulate and indistinct.
+      [1913 Webster]
+
+            The jaw makes answer, as the magpie [01;31m[Kchatter[m[Ks.
+                                                  --[01;31m[KWord[m[Ksworth.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo talk idly, carelessly, or with undue rapidity; to
+      jabber; to prate.
+      [1913 Webster]
+
+            To tame a shrew, and charm her [01;31m[Kchatter[m[King tongue.
+                                                  --Shak.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo make a noise by rapid collisions.
+      [1913 Webster]
+
+            With [01;31m[Kchatter[m[King teeth, and bristling hair upright.
+                                                  --Dryden.
+      [1913 Webster]
+.
+151 "[01;31m[KChatter[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KChatter[m[K \Chat"ter\, v. t.
+   To utter rapidly, idly, or indistinctly.
+   [1913 Webster]
+
+         Begin his witless note apace to [01;31m[Kchatter[m[K. --Spenser.
+   [1913 Webster]
+.
+250 ok [d/m/c = 3/0/19; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]
