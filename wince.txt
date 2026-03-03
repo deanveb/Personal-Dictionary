@@ -1,0 +1,43 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653735823.11957.1772529477@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[KWince[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KWince[m[K \[01;31m[KWince[m[K\, n.
+   The act of one who [01;31m[Kwince[m[Ks.
+   [1913 Webster]
+.
+151 "[01;31m[KWince[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KWince[m[K \[01;31m[KWince[m[K\, n. [See {Winch}.] (Dyeing & Calico Printing)
+   A reel used in dyeing, steeping, or washing cloth; a winch.
+   It is placed over the division wall between two [01;31m[Kwince[m[K pits so
+   as to allow the cloth to descend into either compartment. at
+   will.
+   [1913 Webster]
+
+   {[01;31m[KWince[m[K pit}, {[01;31m[KWince[m[K pot}, a tank or a pit where cloth in the
+      process of dyeing or manufacture is washed, dipped in a
+      mordant, or the like.
+      [1913 Webster]
+.
+151 "[01;31m[KWince[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KWince[m[K \[01;31m[KWince[m[K\, v. i. [imp. & p. p. {[01;31m[KWince[m[Kd}; p. pr. & vb. n.
+   {Wincing}.] [OE. [01;31m[Kwince[m[Kn, winchen, OF. quencir, guenchir,
+   guenchier, giencier, guinchier, and (assumed) winchier,
+   winchir, to give way, to turn aside, fr. OHG. wankjan,
+   wenken, to give way, to waver, fr. winchan to turn aside, to
+   nod, akin to E. wink. See {Wink}.]
+   [1913 Webster]
+   [01;31m[K1. [m[KTo shrink, as from a blow, or from pain; to flinch; to
+      start back.
+      [1913 Webster]
+
+            I will not stir, nor [01;31m[Kwince[m[K, nor speak a [01;31m[Kword[m[K.
+                                                  --Shak.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo kick or flounce when unsteady, or impatient at a rider;
+      as, a horse [01;31m[Kwince[m[Ks.
+      [1913 Webster]
+.
+250 ok [d/m/c = 3/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

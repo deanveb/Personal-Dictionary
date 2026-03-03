@@ -1,0 +1,32 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653778614.10441.1772533932@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[Kcurtsy[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Courtesy \Courte"sy\ (k[^u]rt"s[y^]), n. [See the preceding
+   [01;31m[Kword[m[K.]
+   An act of civility, respect, or reverence, made by women,
+   consisting of a slight depression or dropping of the body,
+   with bending of the knees. [Written also {[01;31m[Kcurtsy[m[K} and
+   {curtsey}.]
+   [1913 Webster]
+
+         The lady drops a courtesy in token of obedience, and
+         the ceremony proceeds as usual.          --Golgsmith.
+   [1913 Webster]
+.
+151 "[01;31m[Kcurtsy[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+curtsey \curt"sey\, [01;31m[Kcurtsy[m[K \curt"sy\(k[^u]rt"s[y^]), n.
+   An act of civility, respect, or reverence, made by women,
+   consisting of a slight depression or dropping of the body,
+   with bending of the knees. Same as 2nd {Courtesy}, n..
+
+   Syn: [01;31m[Kcurtsy[m[K; courtesy.
+        [1913 Webster + [01;31m[KWord[m[KNet 1.5] curtsey
+.
+151 "[01;31m[Kcurtsy[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+curtsey \curtsey\, [01;31m[Kcurtsy[m[K \[01;31m[Kcurtsy[m[K\v. i.
+   to perform a {[01;31m[Kcurtsy[m[K}.
+   [[01;31m[KWord[m[KNet 1.5]
+.
+250 ok [d/m/c = 3/0/20; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

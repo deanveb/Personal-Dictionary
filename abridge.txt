@@ -1,0 +1,29 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653796557.3452.1772535924@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KAbridge[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KAbridge[m[K \A*bridge"\, v. t. [imp. & p. p. {[01;31m[KAbridge[m[Kd}; p. pr. &
+   vb. n. {Abridging}.] [OE. abregen, OF. abregier, F.
+   abr['e]ger, fr. L. abbreviare; ad + brevis short. See {Brief}
+   and cf. {Abbreviate}.]
+   [01;31m[K1. [m[KTo make shorter; to shorten in duration; to lessen; to
+      diminish; to curtail; as, to [01;31m[Kabridge[m[K labor; to [01;31m[Kabridge[m[K
+      power or rights. "The bridegroom . . . [01;31m[Kabridge[m[Kd his
+      visit." --Smollett.
+      [1913 Webster]
+
+            She retired herself to Sebaste, and [01;31m[Kabridge[m[Kd her
+            train from state to necessity.        --Fuller.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo shorten or contract by using fewer [01;31m[Kword[m[Ks, yet retaining
+      the sense; to epitomize; to condense; as, to [01;31m[Kabridge[m[K a
+      history or dictionary.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo deprive; to cut off; -- followed by of, and formerly by
+      from; as, to [01;31m[Kabridge[m[K one of his rights.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

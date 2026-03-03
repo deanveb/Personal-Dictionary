@@ -1,0 +1,66 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653770193.30565.1772533101@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KPrejudice[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPrejudice[m[K \Prej"u*dice\, n. [F. pr['e]judice, L. praejudicium;
+   prae before + judicium judgment. See {Prejudicate},
+   {Judicial}.]
+   [01;31m[K1. [m[KForesight. [Obs.]
+      [1913 Webster]
+
+            Naught might hinder his quick prejudize. --Spenser.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KAn opinion or judgment formed without due examination;
+      prejudgment; a leaning toward one side of a question from
+      other considerations than those belonging to it; an
+      unreasonable predilection for, or objection against,
+      anything; especially, an opinion or leaning adverse to
+      anything, without just grounds, or before sufficient
+      knowledge.
+      [1913 Webster]
+
+            Though often misled by [01;31m[Kprejudice[m[K and passion, he was
+            emphatically an honest man.           --Macaulay.
+      [1913 Webster]
+
+   [01;31m[K3. [m[K(Law) A bias on the part of judge, juror, or witness which
+      interferes with fairness of judgment.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KMischief; hurt; damage; injury; detriment. --Locke.
+      [1913 Webster]
+
+            England and France might, through their amity,
+            Breed him some [01;31m[Kprejudice[m[K.             --Shak.
+      [1913 Webster]
+
+   Syn: Prejudgment; prepossession; bias; harm; hurt; damage;
+        detriment; mischief; disadvantage.
+        [1913 Webster]
+.
+151 "[01;31m[KPrejudice[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPrejudice[m[K \Prej"u*dice\, v. t. [imp. & p. p. {[01;31m[KPrejudice[m[Kd}; p.
+   pr. & vb. n. {Prejudicing}.] [Cf. F. pr['e]judicier. See
+   {[01;31m[KPrejudice[m[K}, n.]
+   [01;31m[K1. [m[KTo cause to have [01;31m[Kprejudice[m[K; to prepossess with opinions
+      formed without due knowledge or examination; to bias the
+      mind of, by hasty and incorrect notions; to give an
+      unreasonable bent to, as to one side or the other of a
+      cause; as, to [01;31m[Kprejudice[m[K a critic or a juryman.
+      [1913 Webster]
+
+            Suffer not any beloved study to [01;31m[Kprejudice[m[K your mind
+            so far as to despise all other learning. --I. Watts
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo obstruct or injure by [01;31m[Kprejudice[m[Ks, or by previous bias
+      of the mind; hence, generally, to hurt; to damage; to
+      injure; to impair; as, to [01;31m[Kprejudice[m[K a good cause.
+      [1913 Webster]
+
+            Seek how may [01;31m[Kprejudice[m[K the foe.       --Shak
+      [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

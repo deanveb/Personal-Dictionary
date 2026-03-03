@@ -1,0 +1,38 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653795835.2527.1772535817@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KVicarious[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KVicarious[m[K \Vi*ca"ri*ous\ (v[-i]*k[=a]"[i^]*[u^]s), a. [L.
+   vicarius, from vicis change, alternation, turn, the position,
+   place, or office of one person as assumed by another; akin to
+   Gr. e'i`kein to yield, give way, G. wechsel a change, and
+   probably also to E. weak. See {Weak}, and cf. {Vice}, prep.]
+   [01;31m[K1. [m[KOf or pertaining to a vicar, substitute, or deputy;
+      deputed; delegated; as, [01;31m[Kvicarious[m[K power or authority.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KActing or suffering for another; as, a [01;31m[Kvicarious[m[K agent or
+      officer.
+      [1913 Webster]
+
+            The soul in the body is but a subordinate efficient,
+            and [01;31m[Kvicarious[m[K . . . in the hands of the Almighty.
+                                                  --Sir M. Hale.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KPerformed,experienced, or suffered in the place of
+      another; substituted; as, a [01;31m[Kvicarious[m[K sacrifice; [01;31m[Kvicarious[m[K
+      punishment; [01;31m[Kvicarious[m[K pleasure.
+      [1913 Webster + PJC]
+
+            The [01;31m[Kvicarious[m[K work of the Great Deliverer. --I.
+                                                  Taylor.
+      [1913 Webster]
+
+   [01;31m[K4. [m[K(Med.) Acting as a substitute; -- said of abnormal action
+      which replaces a suppressed normal function; as, [01;31m[Kvicarious[m[K
+      hemorrhage replacing menstruation.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/15; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

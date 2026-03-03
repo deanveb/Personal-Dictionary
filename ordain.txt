@@ -1,0 +1,47 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653775226.5396.1772533581@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KOrdain[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KOrdain[m[K \Or*dain"\, v. t. [imp. & p. p. {[01;31m[KOrdain[m[Ked}; p. pr. & vb.
+   n. {[01;31m[KOrdain[m[King}.] [OE. ordeinen, OF. ordener, F. ordonner, fr.
+   L. ordinare, from ordo, ordinis, order. See {Order}, and cf.
+   {Ordinance}.]
+   [01;31m[K1. [m[KTo set in order; to arrange according to rule; to
+      regulate; to set; to establish. "Battle well [01;31m[Kordain[m[Ked."
+      --Spenser.
+      [1913 Webster]
+
+            The stake that shall be [01;31m[Kordain[m[Ked on either side.
+                                                  --Chaucer.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo regulate, or establish, by appointment, decree, or law;
+      to constitute; to decree; to appoint; to institute.
+      [1913 Webster]
+
+            Jeroboam [01;31m[Kordain[m[Ked a feast in the eighth month. --1
+                                                  Kings xii. 32.
+      [1913 Webster]
+
+            And doth the power that man adores [01;31m[Kordain[m[K
+            Their doom ?                          --Byron.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo set apart for an office; to appoint.
+      [1913 Webster]
+
+            Being [01;31m[Kordain[m[Ked his special governor.  --Shak.
+      [1913 Webster]
+
+   [01;31m[K4. [m[K(Eccl.) To invest with ministerial or sacerdotal
+      functions; to introduce into the office of the Christian
+      ministry, by the laying on of hands, or other forms; to
+      set apart by the ceremony of ordination.
+      [1913 Webster]
+
+            Meletius was [01;31m[Kordain[m[Ked by Arian bishops. --Bp.
+                                                  Stillingfleet.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

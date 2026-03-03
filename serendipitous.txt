@@ -1,0 +1,9 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653775129.5263.1772533569@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[Kserendipitous[m[K" wn "[01;31m[KWord[m[KNet (r) 3.0 (2006)"
+[01;31m[Kserendipitous[m[K
+    adj 1: lucky in making unexpected and fortunate discoveries
+.
+250 ok [d/m/c = 1/0/33; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

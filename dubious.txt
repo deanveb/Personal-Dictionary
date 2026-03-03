@@ -1,0 +1,30 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653737685.14400.1772529644@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KDubious[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KDubious[m[K \Du"bi*ous\, a. [L. dubius, dubiosus, fr. duo two. See
+   {Two}, and cf. {Doubt}.]
+   [01;31m[K1. [m[KDoubtful or not settled in opinion; being in doubt;
+      wavering or fluctuating; undetermined. "[01;31m[KDubious[m[K policy."
+      --Sir T. Scott.
+      [1913 Webster]
+
+            A [01;31m[Kdubious[m[K, agitated state of mind. --Thackeray.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KOccasioning doubt; not clear, or obvious; equivocal;
+      questionable; doubtful; as, a [01;31m[Kdubious[m[K answer.
+      [1913 Webster]
+
+            Wiping the dingy shirt with a still more [01;31m[Kdubious[m[K
+            pocket handkerchief.                  --Thackeray.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KOf uncertain event or issue; as, in [01;31m[Kdubious[m[K battle.
+
+   Syn: Doubtful; doubting; unsettled; undetermined; equivocal;
+        uncertain. Cf. {Doubtful}.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

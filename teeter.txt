@@ -1,0 +1,19 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653799502.7166.1772536191@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KTeeter[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KTeeter[m[K \Tee"ter\, v. i. & t. [imp. & p. p. {[01;31m[KTeeter[m[Ked}; p. pr. &
+   vb. n. {[01;31m[KTeeter[m[King}.] [Prov. E. titter to tremble, to seesaw;
+   cf. Icel. titra to tremble, OHG. zittar[=o]n, G. zittern.]
+   To move up and down on the ends of a balanced plank, or the
+   like, as children do for sport; to seesaw; to titter; to
+   titter-totter. [U. S.]
+   [1913 Webster]
+
+         [The bobolink] alit upon the flower, and [01;31m[Kteeter[m[Ked up
+         and down.                                --H. W.
+                                                  Beecher.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

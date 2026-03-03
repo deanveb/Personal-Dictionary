@@ -1,0 +1,32 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653756084.10354.1772531716@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[Kliaison[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[Kliaison[m[K \li`ai`son"\ (l[-e]`[asl]`z[^o]N"), n. [F., fr. L.
+   ligatio, fr. ligare to bind. See {Ligature}, and cf.
+   {Ligation}.]
+   [01;31m[K1. [m[KA union, or bond of union; an intimacy; an
+      interrelationship.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KSpecifically, An illicit sexual relation between a man and
+      a woman; a sexual afffair.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KSpecifically: A process of communication between parts of
+      an organization or between two organizations acting
+      together for a common purpose.
+      [PJC]
+
+   [01;31m[K4. [m[KHence: A person whose function it is to maintain such
+      communication.
+      [PJC]
+
+   [01;31m[K5. [m[K(Phonetics) A pronunciation of a consonant sound that
+      would be otherwise silent, such as the final consonant of
+      certain French [01;31m[Kword[m[Ks, when the following [01;31m[Kword[m[K begins with
+      a vowel sound.
+      [PJC] Liane
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 1.000r 0.000u 0.000s]

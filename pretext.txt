@@ -1,0 +1,25 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653740990.19518.1772530009@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KPretext[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPretext[m[K \Pre"text\ (?; 277), n. [F. pr['e]texte, L. praetextum,
+   fr. praetextus, p. p. of praetexere to weave before, allege
+   as an excuse; prae before + texere to weave. See {Text}.]
+   Ostensible reason or motive assigned or assumed as a color or
+   cover for the real reason or motive; pretense; disguise.
+   [1913 Webster]
+
+         They suck the blood of those they depend on, under a
+         [01;31m[Kpretext[m[K of service and kindness.         --L'Estrange.
+   [1913 Webster]
+
+         With how much or how little [01;31m[Kpretext[m[K of reason. --Dr. H.
+                                                  More.
+   [1913 Webster]
+
+   Syn: Pretense; excuse; semblance; disguise; appearance. See
+        {Pretense}.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

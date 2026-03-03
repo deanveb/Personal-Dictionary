@@ -1,0 +1,35 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653734581.10457.1772529378@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KConcede[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KConcede[m[K \Con*cede"\ (k[o^]n*s[=e]d"), v. t. [imp. & p. p.
+   {[01;31m[KConcede[m[Kd}; p. pr. & vb. n. {Conceding}.] [L. [01;31m[Kconcede[m[Kre,
+   concessum; con- + cedere to go along, give way, yield: cf. F.
+   conc['e]der. See {Cede}.]
+   [01;31m[K1. [m[KTo yield or suffer; to surrender; to grant; as, to [01;31m[Kconcede[m[K
+      the point in question. --Boyle.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo grant, as a right or privilege; to make concession of.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo admit to be true; to acknowledge.
+      [1913 Webster]
+
+            We [01;31m[Kconcede[m[K that their citizens were those who lived
+            under different forms.                --Burke.
+
+   Syn: To grant; allow; admit; yield; surrender.
+        [1913 Webster]
+.
+151 "[01;31m[KConcede[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KConcede[m[K \Con*cede"\, v. i.
+   To yield or make concession.
+   [1913 Webster]
+
+         I wished you to [01;31m[Kconcede[m[K to America, at a time when she
+         prayed concession at our feet.           --Burke.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/19; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

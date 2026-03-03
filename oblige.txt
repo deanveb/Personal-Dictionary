@@ -1,0 +1,50 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653728763.2172.1772528847@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KOblige[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KOblige[m[K \O*blige"\ ([-o]*bl[imac]j"; 277), v. t. [imp. & p. p.
+   {[01;31m[KOblige[m[Kd} ([-o]*bl[imac]jd"); p. pr. & vb. n. {Obliging}
+   ([-o]*bl[imac]"j[i^]ng).] [OF. obligier, F. [01;31m[Koblige[m[Kr, L.
+   obligare; ob (see {Ob-}) + ligare to bind. See {Ligament},
+   and cf. {Obligate}.]
+   [01;31m[K1. [m[KTo attach, as by a bond. [Obs.]
+      [1913 Webster]
+
+            He had [01;31m[Koblige[m[Kd all the senators and magistrates
+            firmly to himself.                    --Bacon.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo constrain by physical, moral, or legal force; to put
+      under obligation to do or forbear something.
+      [1913 Webster]
+
+            The obliging power of the law is neither founded in,
+            nor to be measured by, the rewards and punishments
+            annexed to it.                        --South.
+      [1913 Webster]
+
+            Religion [01;31m[Koblige[m[Ks men to the practice of those
+            virtues which conduce to the preservation of our
+            health.                               --Tillotson.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo bind by some favor rendered; to place under a debt;
+      hence, to do a favor to; to please; to gratify; to
+      accommodate.
+      [1913 Webster]
+
+            Thus man, by his own strength, to heaven would soar,
+            And would not be [01;31m[Koblige[m[Kd to God for more. --Dryden.
+      [1913 Webster]
+
+            The gates before it are brass, and the whole much
+            [01;31m[Koblige[m[Kd to Pope Urban VIII.           --Evelyn.
+      [1913 Webster]
+
+            I shall be more [01;31m[Koblige[m[Kd to you than I can express.
+                                                  --Mrs. E.
+                                                  Montagu.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]
