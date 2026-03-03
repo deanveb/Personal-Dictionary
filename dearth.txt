@@ -1,0 +1,22 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653710143.8197.1772527232@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KDearth[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KDearth[m[K \[01;31m[KDearth[m[K\, n. [OE. derthe, fr. dere. See {Dear}.]
+   Scarcity which renders dear; want; lack; specifically, lack
+   of food on account of failure of crops; famine.
+   [1913 Webster]
+
+         There came a [01;31m[Kdearth[m[K over all the land of Egypt. --Acts
+                                                  vii. 11.
+   [1913 Webster]
+
+         He with her press'd, she faint with [01;31m[Kdearth[m[K. --Shak.
+   [1913 Webster]
+
+         [01;31m[KDearth[m[K of plot, and narrowness of imagination.
+                                                  --Dryden.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

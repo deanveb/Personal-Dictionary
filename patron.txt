@@ -1,0 +1,59 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653714048.14007.1772527542@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[KPatron[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPatron[m[K \Pa"tron\, v. t.
+   To be a [01;31m[Kpatron[m[K of; to [01;31m[Kpatron[m[Kize; to favor. [Obs.] --Sir T.
+   Browne.
+   [1913 Webster]
+.
+151 "[01;31m[KPatron[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPatron[m[K \Pa"tron\, a.
+   Doing the duty of a [01;31m[Kpatron[m[K; giving aid or protection;
+   tutelary. --Dryden.
+   [1913 Webster]
+
+   {[01;31m[KPatron[m[K saint} (R. C. Ch.), a saint regarded as the peculiar
+      protector of a country, community, church, profession,
+      etc., or of an individual.
+      [1913 Webster]
+.
+151 "[01;31m[KPatron[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPatron[m[K \Pa"tron\, n. [F., fr. L. [01;31m[Kpatron[m[Kus, fr. pater a father.
+   See {Paternal}, and cf. {Patroon}, {Padrone}, {Pattern}.]
+   [01;31m[K1. [m[KOne who protects, supports, or countenances; a defender.
+      "[01;31m[KPatron[m[K of my life and liberty." --Shak. "The [01;31m[Kpatron[m[K of
+      true holiness." --Spenser.
+      [1913 Webster]
+
+   [01;31m[K2. [m[K(Rom. Antiq.)
+      (a) A master who had freed his slave, but still retained
+          some paternal rights over him.
+      (b) A man of distinction under whose protection another
+          person placed himself.
+      (c) An advocate or pleader.
+          [1913 Webster]
+
+                Let him who works the client wrong
+                Beware the [01;31m[Kpatron[m[K's ire.          --Macaulay.
+          [1913 Webster]
+
+   [01;31m[K3. [m[KOne who encourages or helps a person, a cause, or a work;
+      a furtherer; a promoter; as, a [01;31m[Kpatron[m[K of art.
+      [1913 Webster]
+
+   [01;31m[K4. [m[K(Eccl. Law) One who has gift and disposition of a
+      benefice. [Eng.]
+      [1913 Webster]
+
+   [01;31m[K5. [m[KA guardian saint. -- called also {[01;31m[Kpatron[m[K saint}.
+      [1913 Webster]
+
+   [01;31m[K6. [m[K(Naut.) See {Padrone}, 2.
+      [1913 Webster]
+
+   {[01;31m[KPatron[m[Ks of Husbandry}, the grangers. See {Granger}, 2.
+      [1913 Webster]
+.
+250 ok [d/m/c = 3/0/20; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

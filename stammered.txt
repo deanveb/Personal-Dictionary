@@ -1,0 +1,25 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653718416.19800.1772527972@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KStammered[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Stammer \Stam"mer\ (st[a^]m"m[~e]r), v. i. [imp. & p. p.
+   {[01;31m[KStammered[m[K} (-m[~e]rd); p. pr. & vb. n. {Stammering}.] [OE.
+   stameren, fr. AS. stamur, stamer, stammering; akin to D. &
+   LG. stameren to stammer, G. stammeln, OHG. stammal[=o]n,
+   stamm[=e]n, Dan. stamme, Sw. stamma, Icel. stama, stamma,
+   OHG. & Dan. stam stammering, Icel. stamr, Goth. stamms, and
+   to G. stemmen to bear against, stumm dumb, D. stom. Cf.
+   {Stem} to resist, {Stumble}.]
+   To make involuntary stops in uttering syllables or [01;31m[Kword[m[Ks; to
+   hesitate or falter in speaking; to speak with stops and
+   difficulty; to stutter.
+   [1913 Webster]
+
+         I would thou couldst stammer, that thou mightest pour
+         this concealed man out of thy mouth, as wine comes out
+         of a narrow-mouthed bottle, either too much at once, or
+         none at all.                             --Shak.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

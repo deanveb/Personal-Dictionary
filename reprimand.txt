@@ -1,0 +1,38 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653701703.27601.1772526439@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KReprimand[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReprimand[m[K \Rep"ri*mand\ (r?p"r?-m?nd), n. [F. r['e]primande, fr.
+   L. reprimendus, reprimenda, that is to be checked or
+   suppressed, fr. reprimere to check, repress; pref. re- re +
+   premere to press. See {Press}, and cf. {Repress}.]
+   Severe or formal reproof; reprehension, private or public.
+   [1913 Webster]
+
+         Goldsmith gave his landlady a sharp [01;31m[Kreprimand[m[K for her
+         treatment of him.                        --Macaulay.
+   [1913 Webster]
+.
+151 "[01;31m[KReprimand[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReprimand[m[K \Rep"ri*mand\, v. t. [imp. & p. p. {[01;31m[KReprimand[m[Ked}; p.
+   pr. & vb. n. {[01;31m[KReprimand[m[King}.] [Cf. F. r['e]primander. See
+   {[01;31m[KReprimand[m[K}, n.]
+   [01;31m[K1. [m[KTo reprove severely; to reprehend; to chide for a fault;
+      to consure formally.
+      [1913 Webster]
+
+            Germanicus was severely [01;31m[Kreprimand[m[Ked by Tiberius for
+            traveling into Egypt without his permission.
+                                                  --Arbuthnot.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo reprove publicly and officially, in execution of a
+      sentence; as, the court ordered him to be [01;31m[Kreprimand[m[Ked.
+      [1913 Webster]
+
+   Syn: To reprove; reprehend; chide; rebuke; censure; blame.
+        See {Reprove}.
+        [1913 Webster]
+.
+250 ok [d/m/c = 2/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

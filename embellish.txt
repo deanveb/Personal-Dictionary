@@ -1,0 +1,19 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653717827.19111.1772527924@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KEmbellish[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KEmbellish[m[K \Em*bel"lish\, v. t. [imp. & p. p. {[01;31m[KEmbellish[m[Ked}; p.
+   pr. & vb. n. {[01;31m[KEmbellish[m[King}.] [OE. embelisen, embelisshen, F.
+   embellir; pref. em- (L. in) + bel, beau, beautiful. See
+   {Beauty}.]
+   To make beautiful or elegant by ornaments; to decorate; to
+   adorn; as, to [01;31m[Kembellish[m[K a book with pictures, a garden with
+   shrubs and flowers, a narrative with striking anecdotes, or
+   style with metaphors.
+
+   Syn: To adorn; beautify; deck; bedeck; decorate; garnish;
+        enrich; ornament; illustrate. See {Adorn}.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

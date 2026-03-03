@@ -1,0 +1,17 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653717511.18740.1772527898@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KCircumvent[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KCircumvent[m[K \Cir`cum*vent"\, v. t. [imp. & p. p. {[01;31m[KCircumvent[m[Ked};
+   p. pr. & vb. n. {[01;31m[KCircumvent[m[King}.] [L. [01;31m[Kcircumvent[m[Kis, p. p. of
+   circumvenire, to come around, encompass, deceive; circum +
+   venire to come, akin to E. come.]
+   To gain advantage over by arts, stratagem, or deception; to
+   decieve; to delude; to get around.
+   [1913 Webster]
+
+         I [01;31m[Kcircumvent[m[Ked whom I could not gain.    --Dryden.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

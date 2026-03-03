@@ -1,0 +1,11 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653699777.24934.1772526271@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KRejuvenate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KRejuvenate[m[K \Re*ju"ve*nate\ (r?-j?"v?-n?t), v. t. [Pref. re- re-
+   + L. juventis young, youthful.]
+   To render young again.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

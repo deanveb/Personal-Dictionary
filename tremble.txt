@@ -1,0 +1,40 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653716268.17113.1772527773@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KTremble[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KTremble[m[K \Trem"ble\, n.
+   An involuntary shaking or quivering.
+   [1913 Webster]
+
+         I am all of a [01;31m[Ktremble[m[K when I think of it. --W. Black.
+   [1913 Webster]
+.
+151 "[01;31m[KTremble[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KTremble[m[K \Trem"ble\, v. i. [imp. & p. p. {[01;31m[KTremble[m[Kd}; p. pr. & vb.
+   n. {Trembling}.] [F. [01;31m[Ktremble[m[Kr, fr. L. tremulus trembling,
+   tremulous, fr. tremere to shake, [01;31m[Ktremble[m[K; akin to Gr. ?,
+   Lith. trimti. Cf. {Tremulous}, {Tremor}.]
+   [01;31m[K1. [m[KTo shake involuntarily, as with fear, cold, or weakness;
+      to quake; to quiver; to shiver; to shudder; -- said of a
+      person or an animal.
+      [1913 Webster]
+
+            I [01;31m[Ktremble[m[K still with fear.            --Shak.
+      [1913 Webster]
+
+            Frighted Turnus [01;31m[Ktremble[m[Kd as he spoke. --Dryden.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo totter; to shake; -- said of a thing.
+      [1913 Webster]
+
+            The Mount of Sinai, whose gray top
+            Shall [01;31m[Ktremble[m[K.                        --Milton.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo quaver or shake, as sound; to be tremulous; as the
+      voice [01;31m[Ktremble[m[Ks.
+      [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

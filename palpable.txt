@@ -1,0 +1,32 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653707537.4057.1772526991@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KPalpable[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPalpable[m[K \Pal"pa*ble\, a. [F. [01;31m[Kpalpable[m[K, L. palpabilis, fr.
+   palpare to feel, stroke; cf. palpus the soft palm of the
+   hand.]
+   [01;31m[K1. [m[KCapable of being touched and felt; perceptible by the
+      touch; as, a [01;31m[Kpalpable[m[K form. --Shak.
+      [1913 Webster]
+
+            Darkness must overshadow all his bounds,
+            [01;31m[KPalpable[m[K darkness.                    --Milton.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KEasily perceptible; plain; distinct; obvious; readily
+      perceived and detected; gross; as, [01;31m[Kpalpable[m[K imposture;
+      [01;31m[Kpalpable[m[K absurdity; [01;31m[Kpalpable[m[K errors. "Three persons
+      [01;31m[Kpalpable[m[K." --P. Plowman.
+      [1913 Webster]
+
+            [Lies] gross as a mountain, open, [01;31m[Kpalpable[m[K. --Shak.
+      [1913 Webster]
+
+            A hit, A very [01;31m[Kpalpable[m[K hit.           --Shak.
+                                                  (Hamlet)
+      [1913 Webster] -- {Pal"pa*ble*ness}, n. -- {Pal"pa*bly},
+      adv.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

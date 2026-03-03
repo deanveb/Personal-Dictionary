@@ -1,0 +1,37 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653709450.7067.1772527169@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KSuffice[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KSuffice[m[K \Suf*fice"\, v. t.
+   [01;31m[K1. [m[KTo satisfy; to content; to be equal to the wants or
+      demands of. --Spenser.
+      [1913 Webster]
+
+            Let it [01;31m[Ksuffice[m[K thee; speak no more unto me of this
+            matter.                               --Deut. iii.
+                                                  26.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo furnish; to supply adequately. [Obs.]
+      [1913 Webster]
+
+            The power appeased, with winds [01;31m[Ksuffice[m[Kd the sail.
+                                                  --Dryden.
+      [1913 Webster]
+.
+151 "[01;31m[KSuffice[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KSuffice[m[K \Suf*fice"\, v. i. [imp. & p. p. {[01;31m[KSuffice[m[Kd}; p. pr. &
+   vb. n. {Sufficing}.] [OE. suffisen, OF. soufire, F. suffire
+   (cf. suffisant, p. pr.), L. [01;31m[Ksuffice[m[Kre to put under, to
+   substitute, to avail for, to [01;31m[Ksuffice[m[K; sub under + facere to
+   make. See {Fact}.]
+   To be enough, or sufficient; to meet the need (of anything);
+   to be equal to the end proposed; to be adequate. --Chaucer.
+   [1913 Webster]
+
+         To recount almighty works,
+         What [01;31m[Kword[m[Ks or tongue of seraph can [01;31m[Ksuffice[m[K? --Milton.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/19; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

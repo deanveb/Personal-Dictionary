@@ -1,0 +1,31 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653703227.29746.1772526576@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KReprehend[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReprehend[m[K \Rep`re*hend"\ (r?p`r?-h?nd"), v. t. [imp. & p. p.
+   {[01;31m[KReprehend[m[Ked}; p. pr. & vb. n. {[01;31m[KReprehend[m[King}.] [L.
+   [01;31m[Kreprehend[m[Kere, reprehensum, to hold back, seize, check, blame;
+   pref. re- re- + prehendere to lay hold of. See {Prehensile},
+   and cf. {Reprisal}. ]
+   To reprove or reprimand with a view of restraining, checking,
+   or preventing; to make charge of fault against; to disapprove
+   of; to chide; to blame; to censure. --Chaucer.
+   [1913 Webster]
+
+         Aristippus being [01;31m[Kreprehend[m[Ked of luxury by one that was
+         not rich, for that he gave six crowns for a small fish.
+                                                  --Bacon.
+   [1913 Webster]
+
+         Pardon me for [01;31m[Kreprehend[m[King thee.         --Shak.
+   [1913 Webster]
+
+         In which satire human vices, ignorance, and errors . .
+         . are severely [01;31m[Kreprehend[m[Ked.              --Dryden.
+   [1913 Webster]
+
+         I nor advise nor [01;31m[Kreprehend[m[K the choice.   --J. Philips.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

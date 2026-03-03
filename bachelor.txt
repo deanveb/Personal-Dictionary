@@ -1,0 +1,57 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653714286.14329.1772527566@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[Kbachelor[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Holluschickie \Hol"lus*chick`ie\, n. sing. & pl. [Prob. of Russ.
+   goluishka bare of possessions, offspring, etc., fr. golui[i^]
+   naked.] (Zool.)
+   A young male fur seal, esp. one from three to six years old;
+   -- called also {[01;31m[Kbachelor[m[K}, because prevented from breeding by
+   the older full-grown males.
+
+   Note: The holluschickie are the seals that may legally be
+         killed for their skins.
+
+               But he'll lie down on the killing grounds where
+               the holluschickie go.              --Kipling.
+         [Webster 1913 Suppl.]
+.
+151 "[01;31m[KBachelor[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KBachelor[m[K \Bach"e*lor\ (b[a^]ch"[-e]*l[~e]r), n. [OF. bacheler
+   young man, F. bachelier (cf. Pr. bacalar, Sp. bachiller, Pg.
+   bacharel, It. baccalare), LL. baccalarius the tenant of a
+   kind of farm called baccalaria, a soldier not old or rich
+   enough to lead his retainers into battle with a banner, a
+   person of an inferior academical degree aspiring to a
+   doctorate. In the latter sense, it was afterward changed to
+   baccalaureus. See {Baccalaureate}, n.]
+   [01;31m[K1. [m[KA man of any age who has not been married.
+      [1913 Webster]
+
+            As merry and mellow an old [01;31m[Kbachelor[m[K as ever followed
+            a hound.                              --W. Irving.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KAn unmarried woman. [Obs.] --B. Jonson.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KA person who has taken the first or lowest degree in the
+      liberal arts, or in some branch of science, at a college
+      or university; as, a [01;31m[Kbachelor[m[K of arts.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KA knight who had no standard of his own, but fought under
+      the standard of another in the field; often, a young
+      knight.
+      [1913 Webster]
+
+   [01;31m[K5. [m[KIn the companies of London tradesmen, one not yet admitted
+      to wear the livery; a junior member. [Obs.]
+      [1913 Webster]
+
+   [01;31m[K6. [m[K(Zool.) A kind of bass, an edible fresh-water fish
+      ({Pomoxys annularis}) of the southern United States.
+      [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

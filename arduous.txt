@@ -1,0 +1,37 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653714961.15223.1772527631@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KArduous[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KArduous[m[K \Ar"du*ous\ (?; 135), a. [L. arduus steep, high; akin to
+   Ir. ard high, height.]
+   [01;31m[K1. [m[KSteep and lofty, in a literal sense; hard to climb.
+      [1913 Webster]
+
+            Those [01;31m[Karduous[m[K paths they trod.        --Pope.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KAttended with great labor, like the ascending of
+      acclivities; difficult; laborious; as, an [01;31m[Karduous[m[K
+      employment, task, or enterprise.
+      [1913 Webster]
+
+   Syn: Difficult; trying; laborious; painful; exhausting.
+
+   Usage: {[01;31m[KArduous[m[K}, {Hard}, {Difficult}. Hard is simpler,
+          blunter, and more general in sense than difficult; as,
+          a hard duty to perform, hard work, a hard task, one
+          which requires much bodily effort and perseverance to
+          do. Difficult commonly implies more skill and sagacity
+          than hard, as when there is disproportion between the
+          means and the end. A work may be hard but not
+          difficult. We call a thing [01;31m[Karduous[m[K when it requires
+          strenuous and persevering exertion, like that of one
+          who is climbing a precipice; as, an [01;31m[Karduous[m[K task, an
+          [01;31m[Karduous[m[K duty. "It is often difficult to control our
+          feelings; it is still harder to subdue our will; but
+          it is an [01;31m[Karduous[m[K undertaking to control the unruly and
+          contending will of others."
+          [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,60 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653702875.29256.1772526540@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KReprove[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReprove[m[K \Re*prove"\ (r?-pr??v"), v. t. [imp. & p. p. {[01;31m[KReprove[m[Kd}
+   (-pr??vd"); p. pr. & vb. n. {Reproving}.] [F. r['e]prouver,
+   OF. [01;31m[Kreprove[m[Kr, fr. L. reprobare. See {Reprieve}, {Reprobate},
+   and cf. {Reproof}.]
+   [01;31m[K1. [m[KTo convince. [Obs.]
+      [1913 Webster]
+
+            When he is come, he will [01;31m[Kreprove[m[K the world of sin,
+            and of righteousness, and of judgment. --John xvi.
+                                                  9.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo disprove; to refute. [Obs.]
+      [1913 Webster]
+
+            [01;31m[KReprove[m[K my allegation, if you can.    --Shak.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo chide to the face as blameworthy; to accuse as guilty;
+      to censure.
+      [1913 Webster]
+
+            What if thy son
+      [1913 Webster]
+
+            Prove disobedient, and, [01;31m[Kreprove[m[Kd, retort,
+            "Wherefore didst thou beget me?"      --Milton.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KTo express disapprobation of; as, to [01;31m[Kreprove[m[K faults.
+      [1913 Webster]
+
+            He neither [01;31m[Kreprove[m[Kd the ordinance of John, neither
+            plainly condemned the fastings of the other men.
+                                                  --Udall.
+      [1913 Webster]
+
+   Syn: To reprehend; chide; rebuke; scold; blame censure.
+
+   Usage: {[01;31m[KReprove[m[K}, {Rebuke}, {Reprimand}. These [01;31m[Kword[m[Ks all
+          signufy the expression of disapprobation. To [01;31m[Kreprove[m[K
+          implies greater calmness and self-possession. To
+          rebuke implies a more excited and personal feeling. A
+          reproof may be administered long after the offience is
+          committed, and is usually intended for the reformation
+          of the offender; a rebuke is commonly given at the
+          moment of the wrong, and is administered by way of
+          punishment and condemnation. A reprimand proceeds from
+          a person invested with authority, and is a formal and
+          offiscial act. A child is [01;31m[Kreprove[m[Kd for his faults, and
+          rebuked for his impudence. A military officer is
+          reprimanded for neglect or violation of duty.
+          [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 1.000r 0.000u 0.000s]

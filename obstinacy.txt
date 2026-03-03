@@ -1,0 +1,43 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653711080.9609.1772527327@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KObstinacy[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KObstinacy[m[K \Ob"sti*na*cy\, n. [See {Obstinate}.]
+   [01;31m[K1. [m[KA fixedness in will, opinion, or resolution that can not
+      be shaken at all, or only with great difficulty; firm and
+      usually unreasonable adherence to an opinion, purpose, or
+      system; unyielding disposition; stubborness; pertinacity;
+      persistency; contumacy.
+      [1913 Webster]
+
+            You do not well in [01;31m[Kobstinacy[m[K
+            To cavil in the course of this contract. --Shak.
+      [1913 Webster]
+
+            To shelter their ignorance, or [01;31m[Kobstinacy[m[K, under the
+            obscurity of their terms.             --Locke.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KThe quality or state of being difficult to remedy,
+      relieve, or subdue; as, the [01;31m[Kobstinacy[m[K of a disease or
+      evil.
+      [1913 Webster]
+
+   Syn: Pertinacity; firmness; resoluteness; inflexibility;
+        persistency; stubbornness; perverseness; contumacy.
+
+   Usage: {[01;31m[KObstinacy[m[K}, {Pertinacity}. Pertinacity denotes great
+          firmness in holding to a thing, aim, etc. [01;31m[KObstinacy[m[K is
+          great firmness in holding out against persuasion,
+          attack, etc. The former consists in adherence, the
+          latter in resistance. An opinion is advocated with
+          pertinacity or defended with [01;31m[Kobstinacy[m[K. Pertinacity is
+          often used in a good sense; [01;31m[Kobstinacy[m[K generally in a
+          bad one. "In this reply was included a very gross
+          mistake, and if with pertinacity maintained, a capital
+          error." --Sir T. Browne. "Every degree of [01;31m[Kobstinacy[m[K in
+          youth is one step to rebellion." --South.
+          [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

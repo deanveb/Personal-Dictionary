@@ -1,0 +1,23 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653716851.17925.1772527835@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KInauguration[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KInauguration[m[K \In*au`gu*ra"tion\, n. [L. inauguratio a beginning:
+   cf. F. [01;31m[Kinauguration[m[K.]
+   [1913 Webster]
+   [01;31m[K1. [m[KThe act of inuagurating, or inducting into office with
+      solemnity; investiture by appropriate ceremonies.
+      [1913 Webster]
+
+            At his regal [01;31m[Kinauguration[m[K, his old father resigned
+            the kingdom to him.                   --Sir T.
+                                                  Browne.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KThe formal beginning or initiation of any movement, course
+      of action, etc.; as, the [01;31m[Kinauguration[m[K of a new system, a
+      new condition, etc.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

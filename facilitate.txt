@@ -1,0 +1,20 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653703813.30570.1772526634@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KFacilitate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KFacilitate[m[K \Fa*cil"i*tate\ (f[.a]*s[i^]l"[i^]*t[=a]t), v. t.
+   [imp. & p. p. {[01;31m[KFacilitate[m[Kd} (f[.a]*s[i^]l"[i^]*t[=a]`t[e^]d);
+   p. pr. & vb. n. {Facilitating}
+   (f[.a]*s[i^]l"[i^]*t[=a]`t[i^]ng).] [Cf. F. faciliter. See
+   {Facility}.]
+   To make easy or less difficult; to free from difficulty or
+   impediment; to lessen the labor of; as, to [01;31m[Kfacilitate[m[K the
+   execution of a task.
+   [1913 Webster]
+
+         To invite and [01;31m[Kfacilitate[m[K that line of proceeding which
+         the times call for.                      --I. Taylor.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,38 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653709336.6913.1772527154@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KSynthesis[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KSynthesis[m[K \Syn"the*sis\, n.; pl. {Syntheses}. [L., a mixture,
+   properly, a putting together, Gr. ?, fr. ? to place or put
+   together; sy`n with + ? to place. See {Thesis}.]
+   [01;31m[K1. [m[KComposition, or the putting of two or more things
+      together, as in compounding medicines.
+      [1913 Webster]
+
+   [01;31m[K2. [m[K(Chem.) The art or process of making a compound by putting
+      the ingredients together, as contrasted with analysis;
+      thus, water is made by [01;31m[Ksynthesis[m[K from hydrogen and oxygen;
+      hence, specifically, the building up of complex compounds
+      by special reactions, whereby their component radicals are
+      so grouped that the resulting substances are identical in
+      every respect with the natural articles when such occur;
+      thus, artificial alcohol, urea, indigo blue, alizarin,
+      etc., are made by [01;31m[Ksynthesis[m[K.
+      [1913 Webster]
+
+   [01;31m[K3. [m[K(Logic) The combination of separate elements of thought
+      into a whole, as of simple into complex conceptions,
+      species into genera, individual propositions into systems;
+      -- the opposite of {analysis}.
+      [1913 Webster]
+
+            Analysis and [01;31m[Ksynthesis[m[K, though commonly treated as
+            two different methods, are, if properly understood,
+            only the two necessary parts of the same method.
+            Each is the relative and correlative of the other.
+                                                  --Sir W.
+                                                  Hamilton.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

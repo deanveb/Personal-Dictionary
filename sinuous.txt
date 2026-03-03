@@ -1,0 +1,18 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653713487.13096.1772527503@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KSinuous[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KSinuous[m[K \Sin"u*ous\, a. [L. sinuosus, fr. sinus a bent surface,
+   a curve: cf. F. sinueux. See {Sinus}.]
+   Bending in and out; of a serpentine or undulating form;
+   winding; crooked. -- {Sin"u*ous*ly}, adv.
+   [1913 Webster]
+
+         Streaking the ground with [01;31m[Ksinuous[m[K trace. --Milton.
+   [1913 Webster]
+
+         Gardens bright with [01;31m[Ksinuous[m[K rills.       --Coleridge.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

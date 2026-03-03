@@ -1,0 +1,105 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653709136.6575.1772527139@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KReverence[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReverence[m[K \Rev"er*ence\, n. [F. r['e]v['e]rence, L. reverentia.
+   See {Reverent}.]
+   [01;31m[K1. [m[KProfound respect and esteem mingled with fear and
+      affection, as for a holy being or place; the disposition
+      to revere; veneration.
+      [1913 Webster]
+
+            If thou be poor, farewell thy [01;31m[Kreverence[m[K. --Chaucer.
+      [1913 Webster]
+
+            [01;31m[KReverence[m[K, which is the synthesis of love and fear.
+                                                  --Coleridge.
+      [1913 Webster]
+
+            When discords, and quarrels, and factions, are
+            carried openly and audaciously, it is a sign the
+            [01;31m[Kreverence[m[K of government islost.       --Bacon.
+      [1913 Webster]
+
+   Note: Formerly, as in Chaucer, [01;31m[Kreverence[m[K denoted "respect"
+         "honor", without awe or fear.
+         [1913 Webster]
+
+   [01;31m[K2. [m[KThe act of revering; a token of respect or veneration; an
+      obeisance.
+      [1913 Webster]
+
+            Make twenty [01;31m[Kreverence[m[Ks upon receiving . . . about
+            twopence.                             --Goldsmith.
+      [1913 Webster]
+
+            And each of them doeth all his diligence
+            To do unto the feast [01;31m[Kreverence[m[K.       --Chaucer.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KThat which deserves or exacts manifestations of [01;31m[Kreverence[m[K;
+      reverend character; dignity; state.
+      [1913 Webster]
+
+            I am forced to lay my [01;31m[Kreverence[m[K by.   --Shak.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KA person entitled to be revered; -- a title applied to
+      priests or other ministers with the pronouns his or your;
+      sometimes poetically to a father. --Shak.
+      [1913 Webster]
+
+   {Save your [01;31m[Kreverence[m[K}, {Saving your [01;31m[Kreverence[m[K}, an
+      apologetical phrase for an unseemly expression made in the
+      presence of a priest or clergyman.
+
+   {Sir [01;31m[Kreverence[m[K}, a contracted form of {Save your [01;31m[Kreverence[m[K}.
+      [1913 Webster]
+
+            Such a one as a man may not speak of, without he
+            say. "Sir [01;31m[Kreverence[m[K."                 --Shak.
+      [1913 Webster]
+
+   {To do [01;31m[Kreverence[m[K}, to show [01;31m[Kreverence[m[K or honor; to perform an
+      act of [01;31m[Kreverence[m[K.
+      [1913 Webster]
+
+            Now lies he there,
+            And none so poor to do him [01;31m[Kreverence[m[K. --Shak.
+      [1913 Webster]
+
+   Syn: Awe; honor; veneration; adoration; dread.
+
+   Usage: {Awe}, {[01;31m[KReverence[m[K}, {Dread}, {Veneration}. [01;31m[KReverence[m[K
+          is a strong sentiment of respect and esteem, sometimes
+          mingled slightly with fear; as, [01;31m[Kreverence[m[K for the
+          divine law. Awe is a mixed feeling of sublimity and
+          dread in view of something great or terrible, sublime
+          or sacred; as, awe at the divine presence. It does not
+          necessarily imply love. Dread is an anxious fear in
+          view of an impending evil; as, dread of punishment.
+          Veneration is [01;31m[Kreverence[m[K in its strongest
+          manifestations. It is the highest emotion we can
+          exercise toward human beings. Exalted and noble
+          objects produce [01;31m[Kreverence[m[K; terrific and threatening
+          objects awaken dread; a sense of the divine presence
+          fills us with awe; a union of wisdom and virtue in one
+          who is advanced in years inspires us with veneration.
+          [1913 Webster]
+.
+151 "[01;31m[KReverence[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReverence[m[K \Rev"er*ence\, v. t. [imp. & p. p. {[01;31m[KReverence[m[Kd}; p.
+   pr. & vb. n. {Reverencing}.]
+   To regard or treat with [01;31m[Kreverence[m[K; to regard with respect and
+   affection mingled with fear; to venerate.
+   [1913 Webster]
+
+         Let . . . the wife see that she [01;31m[Kreverence[m[K her husband.
+                                                  --Eph. v. 33.
+   [1913 Webster]
+
+         Those that I [01;31m[Kreverence[m[K those I fear, the wise. --Shak.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

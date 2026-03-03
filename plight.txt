@@ -1,0 +1,78 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653715571.16222.1772527696@dict.dict.org>
+250 ok
+150 6 definitions retrieved
+151 "[01;31m[KPlight[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPlight[m[K \[01;31m[KPlight[m[K\, v. t. [imp. & p. p. {[01;31m[KPlight[m[Ked}; p. pr. & vb. n.
+   {[01;31m[KPlight[m[King}.] [AS. plihtan to expose to danger, pliht
+   danger;cf. D. verplichten to oblige, engage, impose a duty,
+   G. verpflichten, Sw. f["o]rplikta, Dan. forpligte. See
+   {[01;31m[KPlight[m[K}, n.]
+   [01;31m[K1. [m[KTo pledge; to give as a pledge for the performance of some
+      act; as, to [01;31m[Kplight[m[K faith, honor, [01;31m[Kword[m[K; -- never applied to
+      property or goods. " To do them [01;31m[Kplight[m[Ke their troth."
+      --Piers Plowman.
+      [1913 Webster]
+
+            He [01;31m[Kplight[m[Ked his right hand
+            Unto another love, and to another land. --Spenser.
+      [1913 Webster]
+
+            Here my inviolable faith I [01;31m[Kplight[m[K.    --Dryden.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo promise; to engage; to betroth.
+      [1913 Webster]
+
+            Before its setting hour, divide
+            The bridegroom from the [01;31m[Kplight[m[Ked bride. --Sir W.
+                                                  Scott.
+      [1913 Webster]
+.
+151 "[01;31m[KPlight[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPlight[m[K \[01;31m[KPlight[m[K\, obs.
+   imp. & p. p. of {[01;31m[KPlight[m[K}, to pledge. --Chaucer.
+   [1913 Webster]
+.
+151 "[01;31m[KPlight[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPlight[m[K \[01;31m[KPlight[m[K\, obs.
+   imp. & p. p. of {Pluck}. --Chaucer.
+   [1913 Webster]
+.
+151 "[01;31m[KPlight[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPlight[m[K \[01;31m[KPlight[m[K\, v. t. [OE. pliten; probably through Old French,
+   fr. LL. plectare, L. plectere. See {Plait}, {Ply}.]
+   To weave; to braid; to fold; to plait.[Obs.] "To sew and
+   [01;31m[Kplight[m[K." --Chaucer.
+   [1913 Webster]
+
+         A [01;31m[Kplight[m[Ked garment of divers colors.     --Milton.
+   [1913 Webster]
+.
+151 "[01;31m[KPlight[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPlight[m[K \[01;31m[KPlight[m[K\, n.
+   A network; a plait; a fold; rarely a garment. [Obs.] "Many a
+   folded [01;31m[Kplight[m[K." --Spenser.
+   [1913 Webster]
+.
+151 "[01;31m[KPlight[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPlight[m[K \[01;31m[KPlight[m[K\, n. [OE. pliht danger, engagement, AS. pliht
+   danger, fr. ple['o]n to risk; akin to D. plicht duty, G.
+   pflicht, Dan. pligt. [root][01;31m[K28. [m[KCf. {Play}.]
+   [01;31m[K1. [m[KThat which is exposed to risk; that which is [01;31m[Kplight[m[Ked or
+      pledged; security; a gage; a pledge. "That lord whose hand
+      must take my [01;31m[Kplight[m[K." --Shak.
+      [1913 Webster]
+
+   [01;31m[K2. [m[K[Perh. the same [01;31m[Kword[m[K as [01;31m[Kplight[m[K a pledge, but at least
+      influenced by OF. plite, pliste, ploit, ploi, a condition,
+      state; cf. E. [01;31m[Kplight[m[K to fold, and F. pli a fold, habit,
+      plier to fold, E. ply.] Condition; state; -- risk, or
+      exposure to danger, often being implied; as, a luckless
+      [01;31m[Kplight[m[K. "Your [01;31m[Kplight[m[K is pitied." --Shak.
+      [1913 Webster]
+
+            To bring our craft all in another [01;31m[Kplight[m[K --Chaucer.
+      [1913 Webster]
+.
+250 ok [d/m/c = 6/0/22; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

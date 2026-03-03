@@ -1,0 +1,41 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653713755.13412.1772527525@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KPonder[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPonder[m[K \Pon"der\, v. t. [imp. & p. p. {[01;31m[KPonder[m[Ked}; p. pr. & vb.
+   n. {[01;31m[KPonder[m[King}.] [L. [01;31m[Kponder[m[Kare, fr. pondus, [01;31m[Kponder[m[Kis, a
+   weight, fr. pendere to weigh: cf. F. pond['e]rer. See
+   {Pendant}, and cf. {Pound} a weight.]
+   [1913 Webster]
+   [01;31m[K1. [m[KTo weigh. [Obs.]
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo weigh in the mind; to view with deliberation; to
+      examine carefully; to consider attentively.
+      [1913 Webster]
+
+            [01;31m[KPonder[m[K the path of thy feet.          --Prov. iv.
+                                                  26.
+      [1913 Webster]
+
+   Syn: To {[01;31m[KPonder[m[K}, {Consider}, {Muse}.
+
+   Usage: To consider means to view or contemplate with fixed
+          thought. To [01;31m[Kponder[m[K is to dwell upon with long and
+          anxious attention, with a view to some practical
+          result or decision. To muse is simply to think upon
+          continuously with no definite object, or for the
+          pleasure it gives. We consider any subject which is
+          fairly brought before us; we [01;31m[Kponder[m[K a concern
+          involving great interests; we muse on the events of
+          childhood.
+          [1913 Webster]
+.
+151 "[01;31m[KPonder[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPonder[m[K \Pon"der\, v. i.
+   To think; to deliberate; to muse; -- usually followed by on
+   or over. --Longfellow.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

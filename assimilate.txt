@@ -1,0 +1,63 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653705530.795.1772526812@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KAssimilate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KAssimilate[m[K \As*sim"i*late\, v. i.
+   [01;31m[K1. [m[KTo become similar or like something else. [R.]
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo change and appropriate nourishment so as to make it a
+      part of the substance of the assimilating body.
+      [1913 Webster]
+
+            Aliment easily [01;31m[Kassimilate[m[Kd or turned into blood.
+                                                  --Arbuthnot.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo be converted into the substance of the assimilating
+      body; to become incorporated; as, some kinds of food
+      [01;31m[Kassimilate[m[K more readily than others.
+      [1913 Webster]
+
+            I am a foreign material, and cannot [01;31m[Kassimilate[m[K with
+            the church of England.                --J. H.
+                                                  Newman.
+      [1913 Webster]
+.
+151 "[01;31m[KAssimilate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KAssimilate[m[K \As*sim"i*late\, v. t. [imp. & p. p. {[01;31m[KAssimilate[m[Kd};
+   p. pr. & vb. n. {Assimilating}.] [L. assimilatus, p. p. of
+   assimilare; ad + similare to make like, similis like. See
+   {Similar}, {Assemble}, {[01;31m[KAssimilate[m[K}.]
+   [01;31m[K1. [m[KTo bring to a likeness or to conformity; to cause a
+      resemblance between. --Sir M. Hale.
+      [1913 Webster]
+
+            To [01;31m[Kassimilate[m[K our law to the law of Scotland. --John
+                                                  Bright.
+      [1913 Webster]
+
+            Fast falls a fleecy; the downy flakes
+            [01;31m[KAssimilate[m[K all objects.               --Cowper.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo liken; to compa?e. [R.]
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo appropriate and transform or incorporate into the
+      substance of the assimilating body; to absorb or
+      appropriate, as nourishment; as, food is [01;31m[Kassimilate[m[Kd and
+      converted into organic tissue.
+      [1913 Webster]
+
+            Hence also animals and vegetables may [01;31m[Kassimilate[m[K
+            their nourishment.                    --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+            His mind had no power to [01;31m[Kassimilate[m[K the lessons.
+                                                  --Merivale.
+      [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]
