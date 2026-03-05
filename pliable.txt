@@ -1,0 +1,21 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654486042.29976.1772609002@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KPliable[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KPliable[m[K \Pli"a*ble\, a. [F., fr. plier to bend, to fold. See
+   {Ply}, v.]
+   [01;31m[K1. [m[KCapable of being plied, turned, or bent; easy to be bent;
+      flexible; pliant; supple; limber; yielding; as, willow is
+      a [01;31m[Kpliable[m[K plant.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KFlexible in disposition; readily yielding to influence,
+      arguments, persuasion, or discipline; easy to be
+      persuaded; -- sometimes in a bad sense; as, a [01;31m[Kpliable[m[K
+      youth. "[01;31m[KPliable[m[K she promised to be." --Dr. H. More.
+      [1913 Webster] -- {Pli"a*ble*ness}, n. -- {Pli"a*bly},
+      adv.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,18 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654563631.5025.1772617363@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KInnocuous[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KInnocuous[m[K \In*noc"u*ous\, a. [L. innocuus; in- not + nocuus
+   hurtful, fr. nocere to hurt. See {Innocent}.]
+   Harmless; producing no ill effect.
+   [1913 Webster]
+
+         A patient, [01;31m[Kinnocuous[m[K, innocent man.      --Burton.
+   -- {In*noc"u*ous*ly}, adv. -- {In*noc"u*ous*ness}, n.
+   [1913 Webster]
+
+         Where the salt sea [01;31m[Kinnocuous[m[Kly breaks.   --[01;31m[KWord[m[Ksworth.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

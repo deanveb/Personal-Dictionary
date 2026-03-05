@@ -1,0 +1,32 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654501537.18122.1772610839@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KDesolation[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KDesolation[m[K \Des`o*la"tion\, n. [F. d['e]solation, L. desolatio.]
+   [01;31m[K1. [m[KThe act of desolating or laying waste; destruction of
+      inhabitants; depopulation.
+      [1913 Webster]
+
+            Unto the end of the war [01;31m[Kdesolation[m[Ks are determined.
+                                                  --Dan. ix. 26.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KThe state of being desolated or laid waste; ruin;
+      solitariness; destitution; gloominess.
+      [1913 Webster]
+
+            You would have sold your king to slaughter, . . .
+            And his whole kingdom into [01;31m[Kdesolation[m[K. --Shak.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KA place or country wasted and forsaken.
+      [1913 Webster]
+
+            How is Babylon become a [01;31m[Kdesolation[m[K!   --Jer. l. 23.
+
+   Syn: Waste; ruin; destruction; havoc; devastation; ravage;
+        sadness; destitution; melancholy; gloom; gloominess.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

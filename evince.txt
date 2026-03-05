@@ -1,0 +1,25 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653822603.3670.1772538792@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KEvince[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KEvince[m[K \E*vince"\, v. t. [imp. & p. p. {[01;31m[KEvince[m[Kd}; p. pr. & vb.
+   n. {Evincing}.] [L. [01;31m[Kevince[m[Kre vanquish completely, prevail,
+   succeed in proving; e out + vincere to vanquish. See
+   {Victor}, and cf. {Evict}.]
+   [01;31m[K1. [m[KTo conquer; to subdue. [Obs.]
+      [1913 Webster]
+
+            Error by his own arms is best [01;31m[Kevince[m[Kd. --Milton.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo show in a clear manner; to prove beyond any reasonable
+      doubt; to manifest; to make evident; to bring to light; to
+      evidence.
+      [1913 Webster]
+
+            Common sense and experience must and will [01;31m[Kevince[m[K the
+            truth of this.                        --South.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

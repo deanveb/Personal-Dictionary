@@ -1,0 +1,44 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654604396.26699.1772621645@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KCondescend[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KCondescend[m[K \Con`de*scend"\, v. i. [imp. & p. p. {[01;31m[KCondescend[m[Ked};
+   p. pr. & vb. n. {[01;31m[KCondescend[m[King}.] [F. [01;31m[Kcondescend[m[Kre, LL.
+   [01;31m[Kcondescend[m[Kere, fr. L. con- + descendere. See {Descend}.]
+   [01;31m[K1. [m[KTo stoop or descend; to let one's self down; to submit; to
+      waive the privilege of rank or dignity; to accommodate
+      one's self to an inferior. "[01;31m[KCondescend[m[K to men of low
+      estate." --Rom. xii. 16.
+      [1913 Webster]
+
+            Can they think me so broken, so debased
+            With corporal servitude, that my mind ever
+            Will [01;31m[Kcondescend[m[K to such absurd commands? --Milton.
+      [1913 Webster]
+
+            Spain's mighty monarch,
+            In gracious clemency, does [01;31m[Kcondescend[m[K,
+            On these conditions, to become your friend.
+                                                  --Dryden.
+      [1913 Webster]
+
+   Note: Often used ironically, implying an assumption of
+         superiority.
+         [1913 Webster]
+
+               Those who thought they were honoring me by
+               [01;31m[Kcondescend[m[King to address a few [01;31m[Kword[m[Ks to me. --F.
+                                                  W. Robinson.
+         [1913 Webster]
+
+   [01;31m[K2. [m[KTo consent. [Obs.]
+      [1913 Webster]
+
+            All parties willingly [01;31m[Kcondescend[m[Ked heruento. --R.
+                                                  Carew.
+
+   Syn: To yield; stoop; descend; deign; vouchsafe.
+        [1913 Webster] [01;31m[KCondescend[m[Kence
+.
+250 ok [d/m/c = 1/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,32 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653822262.3233.1772538741@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KCorroborate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KCorroborate[m[K \Cor*rob"o*rate\ (k?r-r?b"?-r?t), v. t. [imp. & p.
+   p. {[01;31m[KCorroborate[m[Kd} (-r?`t?d); p. pr. & vb. n. {Corroborating}
+   (-r?`t?ng). ] [L. corroboratus, p. p. of corroborare to
+   [01;31m[Kcorroborate[m[K; cor- + roborare to strengthen, robur strength.
+   See {Robust}.]
+   [01;31m[K1. [m[KTo make strong, or to give additional strength to; to
+      strengthen. [Obs.]
+      [1913 Webster]
+
+            As any limb well and duly exercised, grows stronger,
+            the nerves of the body are [01;31m[Kcorroborate[m[Kd thereby.
+                                                  --I. Watts.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo make more certain; to confirm; to establish.
+      [1913 Webster]
+
+            The concurrence of all [01;31m[Kcorroborate[m[Ks the same truth.
+                                                  --I. Taylor.
+      [1913 Webster]
+.
+151 "[01;31m[KCorroborate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KCorroborate[m[K \Cor*rob"o*rate\ (-r?t), a.
+   [01;31m[KCorroborate[m[Kd. [Obs.] --Bacon.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,18 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654563413.4751.1772617332@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KOpulent[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KOpulent[m[K \Op"u*lent\, a. [L. opulens, [01;31m[Kopulent[m[Kus, fr. ops, opis,
+   power, wealth, riches, perh. akin to E. apt: cf. F. [01;31m[Kopulent[m[K.
+   Cf. {Copious}, {Couple}, {Office}.]
+   Having a large estate or property; wealthy; rich; affluent;
+   as, an [01;31m[Kopulent[m[K city; an [01;31m[Kopulent[m[K citizen. -- {Op"u*lent*ly},
+   adv.
+   [1913 Webster]
+
+         I will piece
+         Her [01;31m[Kopulent[m[K throne with kingdoms.        --Shak.
+   [1913 Webster]
+.
+250 ok [d/m/c = 1/0/15; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

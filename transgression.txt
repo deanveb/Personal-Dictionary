@@ -1,0 +1,34 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654604742.27149.1772621692@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KTransgression[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KTransgression[m[K \Trans*gres"sion\, n. [L. transgressio a going
+   across, going over, [01;31m[Ktransgression[m[K of the law, from
+   transgredi, transgressus, to step across, go over; trans
+   over, across + gradi to step, walk: cf. F. [01;31m[Ktransgression[m[K. See
+   {Grade}.]
+   The act of transgressing, or of passing over or beyond any
+   law, civil or moral; the violation of a law or known
+   principle of rectitude; breach of command; fault; offense;
+   crime; sin.
+   [1913 Webster]
+
+         Forgive thy people . . . all their [01;31m[Ktransgression[m[Ks
+         wherein they have transgressed against thee. --I Kings
+                                                  viii. 50.
+   [1913 Webster]
+
+         What rests, but that the mortal sentence pass
+         On his [01;31m[Ktransgression[m[K, death denounced that day ?
+                                                  --Milton.
+   [1913 Webster]
+
+         The [01;31m[Ktransgression[m[K is in the stealer.     --Shak.
+   [1913 Webster]
+
+   Syn: Fault; offense; crime; infringement; misdemeanor;
+        misdeed; affront; sin.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

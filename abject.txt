@@ -1,0 +1,55 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654501338.17855.1772610812@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[KAbject[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KAbject[m[K \Ab*ject"\ ([a^]b*j[e^]kt"), v. t. [From {[01;31m[KAbject[m[K}, a.]
+   To cast off or down; hence, to abase; to degrade; to lower;
+   to debase. [Obs.] --Donne.
+   [1913 Webster]
+.
+151 "[01;31m[KAbject[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KAbject[m[K \Ab"ject\ ([a^]b"j[e^]kt), n.
+   A person in the lowest and most despicable condition; a
+   castaway. [Obs.]
+   [1913 Webster]
+
+         Shall these [01;31m[Kabject[m[Ks, these victims, these outcasts,
+         know any thing of pleasure?              --I. Taylor.
+   [1913 Webster]
+.
+151 "[01;31m[Kabject[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[Kabject[m[K \ab"ject\ ([a^]b"j[e^]kt), a. [L. [01;31m[Kabject[m[Kus, p. p. of
+   abjicere to throw away; ab + jacere to throw. See {Jet} a
+   shooting forth.]
+   [01;31m[K1. [m[KCast down; low-lying. [Obs.]
+      [1913 Webster]
+
+            From the safe shore their floating carcasses
+            And broken chariot wheels; so thick bestrown
+            [01;31m[KAbject[m[K and lost lay these, covering the flood.
+                                                  --Milton.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KDegraded; servile; groveling; despicable; as, [01;31m[Kabject[m[K
+      posture, fortune, thoughts. "Base and [01;31m[Kabject[m[K flatterers."
+      --Addison. "An [01;31m[Kabject[m[K liar." --Macaulay.
+      [1913 Webster]
+
+            And banish hence these [01;31m[Kabject[m[K, lowly dreams. --Shak.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KSunk to a low condition; down in spirit or hope;
+      miserable; -- of persons.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KHumiliating; degrading; wretched; -- of situations; as,
+      [01;31m[Kabject[m[K poverty.
+      [PJC]
+
+   Syn: Mean; groveling; cringing; mean-spirited; slavish;
+        ignoble; worthless; vile; beggarly; contemptible;
+        degraded.
+        [1913 Webster]
+.
+250 ok [d/m/c = 3/0/20; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,29 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653820073.602.1772538511@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KAggregated[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Aggregate \Ag"gre*gate\, v. t. [imp. & p. p. {[01;31m[KAggregated[m[K}; p.
+   pr. & vb. n. {Aggregating}.] [L. aggregatus, p. p. of
+   aggregare to lead to a flock or herd; ad + gregare to collect
+   into a flock, grex flock, herd. See {Gregarious}.]
+   [01;31m[K1. [m[KTo bring together; to collect into a mass or sum. "The
+      [01;31m[Kaggregated[m[K soil." --Milton.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo add or unite, as, a person, to an association.
+      [1913 Webster]
+
+            It is many times hard to discern to which of the two
+            sorts, the good or the bad, a man ought to be
+            [01;31m[Kaggregated[m[K.                           --Wollaston.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo amount in the aggregate to; as, ten loads, aggregating
+      five hundred bushels. [Colloq.]
+      [1913 Webster]
+
+   Syn: To heap up; accumulate; pile; collect.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

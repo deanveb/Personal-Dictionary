@@ -1,0 +1,45 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654600906.22220.1772621256@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KConcur[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KConcur[m[K \Con*cur"\, v. i. [imp. & p. p. {[01;31m[KConcur[m[Kred}; p. pr. & vb.
+   n. {[01;31m[KConcur[m[Kring}.] [L. [01;31m[Kconcur[m[Krere to run together, agree; con-
+   + currere to run. See {Current}.]
+   [01;31m[K1. [m[KTo run together; to meet. [Obs.]
+      [1913 Webster]
+
+            Anon they fierce encountering both [01;31m[Kconcur[m[Kred
+            With grisly looks and faces like their fates. --J.
+                                                  Hughes.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo meet in the same point; to combine or conjoin; to
+      contribute or help toward a common object or effect.
+      [1913 Webster]
+
+            When outward causes [01;31m[Kconcur[m[K.           --Jer. Colier.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo unite or agree (in action or opinion); to join; to act
+      jointly; to agree; to coincide; to correspond.
+      [1913 Webster]
+
+            Mr. Burke [01;31m[Kconcur[m[Kred with Lord Chatham in opinion.
+                                                  --Fox.
+      [1913 Webster]
+
+            Tories and Whigs had [01;31m[Kconcur[m[Kred in paying honor to
+            Walker.                               --Makaulay.
+      [1913 Webster]
+
+            This [01;31m[Kconcur[m[Ks directly with the letter. --Shak.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KTo assent; to consent. [Obs.] --Milton.
+
+   Syn: To agree; unite; combine; conspire; coincide; approve;
+        acquiesce; assent.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

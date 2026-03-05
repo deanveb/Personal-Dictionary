@@ -1,0 +1,56 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654561811.2486.1772617117@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[KIntrigue[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KIntrigue[m[K \In*trigue"\ ([i^]n*tr[=e]g"), v. i. [imp. & p. p.
+   {[01;31m[KIntrigue[m[Kd} (-tr[=e]gd"); p. pr. & vb. n. {Intriguing}.] [F.
+   [01;31m[Kintrigue[m[Kr, OF. intriquer, entriquer; cf. It. intrigare. See
+   {Intricate}, {Extricate}.]
+   [01;31m[K1. [m[KTo form a plot or scheme; to contrive to accomplish a
+      purpose by secret artifice.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo carry on a secret and illicit love or amour.
+      [1913 Webster]
+.
+151 "[01;31m[KIntrigue[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KIntrigue[m[K \In*trigue"\, v. t.
+   To fill with artifice and duplicity; to complicate; to
+   embarrass. [Obs.]
+   [1913 Webster]
+
+         How doth it [sin] perplex and intrique the whole course
+         of your lives!                           --Dr. J.
+                                                  Scott.
+   [1913 Webster]
+.
+151 "[01;31m[KIntrigue[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KIntrigue[m[K \In*trigue"\, n. [Cf. F. intrique. See {[01;31m[KIntrigue[m[K}, v.
+   i.]
+   [1913 Webster]
+   [01;31m[K1. [m[KIntricacy; complication. [Obs.] --Sir M. Hale.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KA complicated plot or scheme intended to effect some
+      purpose by secret artifice; conspiracy; stratagem.
+      [1913 Webster]
+
+            Busy meddlers with [01;31m[Kintrigue[m[Ks of state. --Pomfret.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KThe plot of a play or romance; a complicated scheme of
+      designs, actions, and events. --Pope.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KA secret and illicit love affair between two persons of
+      different sexes; an amour; a liaison.
+      [1913 Webster]
+
+            The hero of a comedy is represented victorious in
+            all his [01;31m[Kintrigue[m[Ks.                    --Swift.
+
+   Syn: Plot; scheme; conspiracy; machination.
+        [1913 Webster]
+.
+250 ok [d/m/c = 3/0/19; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

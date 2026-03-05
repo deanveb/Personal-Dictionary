@@ -1,0 +1,35 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654498807.14238.1772610486@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KFervent[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KFervent[m[K \Fer"vent\, a. [F. [01;31m[Kfervent[m[K, L. fervens, -entis. p. pr.
+   of fervere o the boiling hot, to boil, glow.]
+   [01;31m[K1. [m[KHot; glowing; boiling; burning; as, a [01;31m[Kfervent[m[K summer.
+      [1913 Webster]
+
+            The elements shall melt with [01;31m[Kfervent[m[K heat. --2 Pet.
+                                                  iii. 10.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KWarm in feeling; ardent in temperament; earnest; full of
+      fervor; zealous; glowing.
+      [1913 Webster]
+
+            Not slothful in business; [01;31m[Kfervent[m[K in spirit. --Rom.
+                                                  iii. 11.
+      [1913 Webster]
+
+            So spake the [01;31m[Kfervent[m[K angel.           --Milton.
+      [1913 Webster]
+
+            A [01;31m[Kfervent[m[K desire to promote the happiness of
+            mankind.                              --Macaulay.
+      -- {Fer"vent*ly}, adv. -- {Fer"vent*ness}, n.
+      [1913 Webster]
+
+            Laboring [01;31m[Kfervent[m[Kly for you in prayers. --Col. iv.
+                                                  12.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

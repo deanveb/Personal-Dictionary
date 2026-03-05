@@ -1,0 +1,59 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654563912.5427.1772617404@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KConfound[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KConfound[m[K \Con*found"\ (k[o^]n*found"), v. t. [imp. & p. p.
+   {[01;31m[KConfound[m[Ked}; p. pr. & vb. n. {[01;31m[KConfound[m[King}.] [F. confondre,
+   fr. L. confundere, -fusum, to pour together; con- + fundere
+   to pour. See {Fuse} to melt, and cf. {Confuse}.]
+   [01;31m[K1. [m[KTo mingle and blend, so that different elements can not be
+      distinguished; to confuse.
+      [1913 Webster]
+
+            They who strip not ideas from the marks men use for
+            them, but [01;31m[Kconfound[m[K them with [01;31m[Kword[m[Ks, must have
+            endless dispute.                      --Locke.
+      [1913 Webster]
+
+            Let us go down, and there [01;31m[Kconfound[m[K their language.
+                                                  --Gen. xi. 7.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo mistake for another; to identify falsely.
+      [1913 Webster]
+
+            They [the tinkers] were generally vagrants and
+            pilferers, and were often [01;31m[Kconfound[m[Ked with the
+            gypsies.                              --Macaulay.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo throw into confusion or disorder; to perplex; to strike
+      with amazement; to dismay.
+      [1913 Webster]
+
+            The gods [01;31m[Kconfound[m[K...
+            The Athenians both within and out that wall. --Shak.
+      [1913 Webster]
+
+            They trusted in thee and were not [01;31m[Kconfound[m[Ked. --Ps.
+                                                  xxii. 5.
+      [1913 Webster]
+
+            So spake the Son of God, and Satan stood
+            A while as mute, [01;31m[Kconfound[m[Ked what to say. --Milton.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KTo destroy; to ruin; to waste. [Obs.]
+      [1913 Webster]
+
+            One man's lust these many lives [01;31m[Kconfound[m[Ks. --Shak.
+      [1913 Webster]
+
+            How couldst thou in a mile [01;31m[Kconfound[m[K an hour? --Shak.
+
+   Syn: To abash; confuse; baffle; dismay; astonish; defeat;
+        terrify; mix; blend; intermingle. See {Abash}.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

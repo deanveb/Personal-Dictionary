@@ -1,0 +1,52 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654636472.5014.1772625093@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KThy[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+thou \thou\ ([th]ou), pron. [Sing.: nom. {Thou}; poss. {[01;31m[KThy[m[K}
+   ([th][imac]) or {Thine} ([th][imac]n); obj. {Thee}
+   ([th][=e]). Pl.: nom. {You} (y[=oo]); poss. {Your} (y[=oo]r)
+   or {Yours} (y[=oo]rz); obj. {You}.] [OE. thou, [thorn]u, AS.
+   [eth][=u], [eth]u; akin to OS. & OFries. thu, G., Dan. & Sw.
+   du, Icel. [thorn][=u], Goth. [thorn]u, Russ. tui, Ir. & Gael.
+   tu, W. ti, L. tu, Gr. sy`, Dor. ty`, Skr. tvam. [root]185.
+   Cf. {Thee}, {Thine}, {Te Deum}.]
+   The second personal pronoun, in the singular number, denoting
+   the person addressed; [01;31m[Kthy[m[Kself; the pronoun which is used in
+   addressing persons in the solemn or poetical style.
+   [1913 Webster]
+
+         Art thou he that should come?            --Matt. xi. 3.
+   [1913 Webster]
+
+   Note: "In Old English, generally, thou is the language of a
+         lord to a servant, of an equal to an equal, and
+         expresses also companionship, love, permission,
+         defiance, scorn, threatening: whilst ye is the language
+         of a servant to a lord, and of compliment, and further
+         expresses honor, submission, or entreaty." --Skeat.
+         [1913 Webster]
+
+   Note: Thou is now sometimes used by the Friends, or Quakers,
+         in familiar discourse, though most of them corruptly
+         say thee instead of thou.
+         [1913 Webster]
+.
+151 "[01;31m[KThy[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KThy[m[K \[01;31m[KThy[m[K\, pron. [OE. thi, shortened from thin. See {Thine},
+   {Thou}.]
+   Of thee, or belonging to thee; the more common form of thine,
+   possessive case of thou; -- used always attributively, and
+   chiefly in the solemn or grave style, and in poetry. Thine is
+   used in the predicate; as, the knife is thine. See {Thine}.
+   [1913 Webster]
+
+         Our father which art in heaven, Hallowed be [01;31m[Kthy[m[K name.
+         [01;31m[KThy[m[K kingdom come. [01;31m[KThy[m[K will be done.      --Matt. vi.
+                                                  9,10.
+   [1913 Webster]
+
+         These are [01;31m[Kthy[m[K glorious works, Parent of good. --Milton.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/19; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

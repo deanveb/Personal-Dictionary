@@ -1,0 +1,80 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <654478010.19878.1772608275@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KConscience[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KConscience[m[K \Con"science\, n. [F. [01;31m[Kconscience[m[K, fr. L. conscientia,
+   fr. consciens, p. pr. of conscire to know, to be conscious;
+   con- + scire to know. See {Science}.]
+   [01;31m[K1. [m[KKnowledge of one's own thoughts or actions; consciousness.
+      [Obs.]
+      [1913 Webster]
+
+            The sweetest cordial we receive, at last,
+            Is [01;31m[Kconscience[m[K of our virtuous actions past.
+                                                  --Denham.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KThe faculty, power, or inward principle which decides as
+      to the character of one's own actions, purposes, and
+      affections, warning against and condemning that which is
+      wrong, and approving and prompting to that which is right;
+      the moral faculty passing judgment on one's self; the
+      moral sense.
+      [1913 Webster]
+
+            My [01;31m[Kconscience[m[K hath a thousand several tongues,
+            And every tongue brings in a several tale,
+            And every tale condemns me for a villain. --Shak.
+      [1913 Webster]
+
+            As science means knowledge, [01;31m[Kconscience[m[K
+            etymologically means self-knowledge . . . But the
+            English [01;31m[Kword[m[K implies a moral standard of action in
+            the mind as well as a consciousness of our own
+            actions. . . . [01;31m[KConscience[m[K is the reason, employed
+            about questions of right and wrong, and accompanied
+            with the sentiments of approbation and condemnation.
+                                                  --Whewell.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KThe estimate or determination of [01;31m[Kconscience[m[K; conviction or
+      right or duty.
+      [1913 Webster]
+
+            [01;31m[KConscience[m[K supposes the existence of some such
+            [i.e., moral] faculty, and properly signifies our
+            consciousness of having acted agreeably or contrary
+            to its directions.                    --Adam Smith.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KTenderness of feeling; pity. [Obs.] --Chaucer.
+      [1913 Webster]
+
+   {[01;31m[KConscience[m[K clause}, a clause in a general law exempting
+      persons whose religious scruples forbid compliance
+      therewith, -- as from taking judicial oaths, rendering
+      military service, etc.
+
+   {[01;31m[KConscience[m[K money}, stolen or wrongfully acquired money that
+      is voluntarily restored to the rightful possessor. Such
+      money paid into the United States treasury by unknown
+      debtors is called the [01;31m[KConscience[m[K fund.
+
+   {Court of [01;31m[KConscience[m[K}, a court established for the recovery
+      of small debts, in London and other trading cities and
+      districts. [Eng.] --Blackstone.
+
+   {In [01;31m[Kconscience[m[K}, {In all [01;31m[Kconscience[m[K}, in deference or
+      obedience to [01;31m[Kconscience[m[K or reason; in reason; reasonably.
+      "This is enough in [01;31m[Kconscience[m[K." --Howell. "Half a dozen
+      fools are, in all [01;31m[Kconscience[m[K, as many as you should
+      require." --Swift.
+
+   {To make [01;31m[Kconscience[m[K of}, {To make a matter of [01;31m[Kconscience[m[K}, to
+      act according to the dictates of [01;31m[Kconscience[m[K concerning
+      (any matter), or to scruple to act contrary to its
+      dictates.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

@@ -1,0 +1,17 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <653825934.7721.1772539152@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KReciprocation[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KReciprocation[m[K \Re*cip`ro*ca"tion\
+   (r[-e]*s[i^]p"r[-o]*k[=a]"sh[u^]n), n. [L. reciprocatio: cf.
+   F. r['e]ciprocation.]
+   [01;31m[K1. [m[KThe act of reciprocating; interchange of acts; a mutual
+      giving and returning; as, the [01;31m[Kreciprocation[m[K of kindness.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KAlternate recurrence or action; as, the [01;31m[Kreciprocation[m[K of
+      the sea in the flow and ebb of tides. --Sir T. Browne.
+      [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]
