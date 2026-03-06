@@ -1,0 +1,42 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <655540438.3098.1772710781@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KBoisterous[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KBoisterous[m[K \Bois"ter*ous\, a. [OE. boistous; of uncertain
+   origin; cf. W. bwyst wild, savage, wildness, ferocity,
+   bwystus ferocious.]
+   [01;31m[K1. [m[KRough or rude; unbending; unyielding; strong; powerful.
+      [Obs.] "[01;31m[KBoisterous[m[K s[01;31m[Kword[m[K." "[01;31m[KBoisterous[m[K hand." --Shak.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KExhibiting tumultuous violence and fury; acting with noisy
+      turbulence; violent; rough; stormy.
+      [1913 Webster]
+
+            The waters swell before a [01;31m[Kboisterous[m[K storm. --Shak.
+      [1913 Webster]
+
+            The brute and [01;31m[Kboisterous[m[K force of violent men.
+                                                  --Milton.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KNoisy; rough; turbulent; as, [01;31m[Kboisterous[m[K mirth; [01;31m[Kboisterous[m[K
+      behavior.
+      [1913 Webster]
+
+            I like not that loud, [01;31m[Kboisterous[m[K man. --Addison.
+      [1913 Webster]
+
+   [01;31m[K4. [m[KVehement; excessive. [R.]
+      [1913 Webster]
+
+            The heat becomes too powerful and [01;31m[Kboisterous[m[K for
+            them.                                 --Woodward.
+      [1913 Webster]
+
+   Syn: Loud; roaring; violent; stormy; turbulent; furious;
+        tumultuous; noisy; impetuous; vehement.
+        [1913 Webster]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

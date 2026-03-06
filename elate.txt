@@ -1,0 +1,62 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <655554861.24084.1772712451@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KElate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KElate[m[K \E*late"\, a. [L. elatus elevated, fig., [01;31m[Kelate[m[Kd, proud
+   (the figure, perh., being borrowed from a prancing horse); e
+   out + latus (used as p. p. of ferre to bear), for tlatus, and
+   akin to E. tolerate. See {Tolerate}, and cf. {Extol}.]
+   [1913 Webster]
+   [01;31m[K1. [m[KLifted up; raised; elevated.
+
+            With upper lip [01;31m[Kelate[m[K.                 --Fenton.
+      [1913 Webster]
+
+            And sovereign law, that State's collected will,
+            O'er thrones and globes, [01;31m[Kelate[m[K,
+            Sits empress, crowning good, repressing ill. --Sir
+                                                  W. Jones.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KHaving the spirits raised by success, or by hope; flushed
+      or exalted with confidence; [01;31m[Kelate[m[Kd; exultant.
+      [1913 Webster]
+
+            O, thoughtless mortals! ever blind to fate,
+            Too soon dejected, and dejected, and too soon [01;31m[Kelate[m[K.
+                                                  --Pope.
+      [1913 Webster]
+
+            Our nineteenth century is wonderfully set up in its
+            own esteem, wonderfully [01;31m[Kelate[m[K at its progress.
+                                                  --Mrs. H. H.
+                                                  Jackson.
+
+   Syn: Puffed up; lofty; proud; haughty; exalted; inspirited;
+        transported; delighted; overjoyed.
+        [1913 Webster]
+.
+151 "[01;31m[KElate[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KElate[m[K \E*late"\, v. t. [imp. & p. p. {[01;31m[KElate[m[Kd}; p. pr. & vb. n.
+   {Elating}.]
+   [01;31m[K1. [m[KTo raise; to exalt. [R.]
+      [1913 Webster]
+
+            By the potent sun [01;31m[Kelate[m[Kd high.        --Thomson.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo exalt the spirit of; to fill with confidence or
+      exultation; to elevate or flush with success; to puff up;
+      to make proud.
+      [1913 Webster]
+
+            Foolishly [01;31m[Kelate[m[Kd by spiritual pride.  --Warburton.
+      [1913 Webster]
+
+            You ought not be [01;31m[Kelate[m[Kd at the chance mishaps of
+            your enemies.                         --Jowett
+                                                  (Thucyd. ).
+      [1913 Webster]
+.
+250 ok [d/m/c = 2/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]
