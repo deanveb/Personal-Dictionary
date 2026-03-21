@@ -1,0 +1,63 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <656365993.770.1772795886@dict.dict.org>
+250 ok
+150 3 definitions retrieved
+151 "[01;31m[KStifle[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KStifle[m[K \Sti"fle\, v. t. [imp. & p. p. {[01;31m[KStifle[m[Kd}; p. pr. & vb. n.
+   {Stifling}.] [Freq. of OE. stif stiff; cf. Icel. st[imac]fla
+   to dam up.]
+   [01;31m[K1. [m[KTo stop the breath of by crowding something into the
+      windpipe, or introducing an irrespirable substance into
+      the lungs; to choke; to suffocate; to cause the death of
+      by such means; as, to [01;31m[Kstifle[m[K one with smoke or dust.
+      [1913 Webster]
+
+            [01;31m[KStifle[m[Kd with kisses, a sweet death he dies.
+                                                  --Dryden.
+      [1913 Webster]
+
+            I took my leave, being half [01;31m[Kstifle[m[Kd with the
+            closeness of the room.                --Swift.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo stop; to extinguish; to deaden; to quench; as, to
+      [01;31m[Kstifle[m[K the breath; to [01;31m[Kstifle[m[K a fire or flame.
+      [1913 Webster]
+
+            Bodies . . . [01;31m[Kstifle[m[K in themselves the rays which
+            they do not reflect or transmit.      --Sir I.
+                                                  Newton.
+      [1913 Webster]
+
+   [01;31m[K3. [m[KTo suppress the manifestation or report of; to smother; to
+      conceal from public knowledge; as, to [01;31m[Kstifle[m[K a story; to
+      [01;31m[Kstifle[m[K passion.
+      [1913 Webster]
+
+            I desire only to have things fairly represented as
+            they really are; no evidence smothered or [01;31m[Kstifle[m[Kd.
+                                                  --Waterland.
+      [1913 Webster]
+.
+151 "[01;31m[KStifle[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KStifle[m[K \Sti"fle\, n. [From {Stiff}.] (Far.)
+   The joint next above the hock, and near the flank, in the
+   hind leg of the horse and allied animals; the joint
+   corresponding to the knee in man; -- called also {[01;31m[Kstifle[m[K
+   joint}. See Illust. under {Horse}.
+   [1913 Webster]
+
+   {[01;31m[KStifle[m[K bone}, a small bone at the [01;31m[Kstifle[m[K joint; the patella,
+      or kneepan.
+      [1913 Webster]
+.
+151 "[01;31m[KStifle[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KStifle[m[K \Sti"fle\, v. i.
+   To die by reason of obstruction of the breath, or because
+   some noxious substance prevents respiration.
+   [1913 Webster]
+
+         You shall [01;31m[Kstifle[m[K in your own report.     --Shak.
+   [1913 Webster]
+.
+250 ok [d/m/c = 3/0/19; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

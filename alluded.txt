@@ -1,0 +1,58 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <658907663.32655.1773057864@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KAlluded[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Allude \Al*lude"\, v. i. [imp. & p. p. {[01;31m[KAlluded[m[K}; p. pr. & vb.
+   n. {Alluding}.] [L. alludere to play with, to allude; ad +
+   ludere to play.]
+   To refer to something indirectly or by suggestion; to have
+   reference to a subject not specifically and plainly
+   mentioned; -- followed by to; as, the story alludes to a
+   recent transaction.
+   [1913 Webster]
+
+         These speeches . . . do seem to allude unto such
+         ministerial garments as were then in use. --Hooker.
+   [1913 Webster]
+
+   Syn: To refer; point; indicate; hint; suggest; intimate;
+        signify; insinuate; advert. See {Refer}.
+        [1913 Webster]
+.
+151 "[01;31m[KAlluded[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+Allure \Al*lure"\, v. t. [imp. & p. p. {[01;31m[KAlluded[m[K}; p. pr. & vb.
+   n. {Alluring}.] [OF. aleurrer, alurer, fr. a (L. ad) + leurre
+   lure. See {Lure}.]
+   To attempt to draw; to tempt by a lure or bait, that is, by
+   the offer of some good, real or apparent; to invite by
+   something flattering or acceptable; to entice; to attract.
+   [1913 Webster]
+
+         With promised joys allured them on.      --Falconer.
+   [1913 Webster]
+
+         The golden sun in splendor likest Heaven
+         Allured his eye.                         --Milton.
+   [1913 Webster]
+
+   Syn: To attract; entice; tempt; decoy; seduce.
+
+   Usage: To {Allure}, {Entice}, {Decoy}, {Seduce}. These [01;31m[Kword[m[Ks
+          agree in the idea of acting upon the mind by some
+          strong controlling influence, and differ according to
+          the image under which is presented. They are all used
+          in a bad sense, except allure, which has sometimes
+          (though rarely) a good one. We are allured by the
+          prospect or offer (usually deceptive) of some future
+          good. We are commonly enticed into evil by appeals to
+          our passions. We are decoyed into danger by false
+          appearances or representations. We are seduced when
+          drawn aside from the path of rectitude. What allures
+          draws by gentle means; what entices leads us by
+          promises and persuasions; what decoys betrays us, as
+          it were, into a snare or net; what seduces deceives us
+          by artful appeals to the passions.
+          [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

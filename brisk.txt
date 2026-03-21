@@ -1,0 +1,33 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <657332618.24504.1772895164@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KBrisk[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KBrisk[m[K \[01;31m[KBrisk[m[K\ (br[i^]sk), a. [Cf. W. brysg, fr. brys haste,
+   Gael. briosg quick, lively, Ir. broisg a start, leap, jerk.]
+   [01;31m[K1. [m[KFull of liveliness and activity; characterized by
+      quickness of motion or action; lively; spirited; quick.
+      [1913 Webster]
+
+            Cheerily, boys; be brick awhile.      --Shak.
+      [1913 Webster]
+
+            [01;31m[KBrisk[m[K toil alternating with ready ease. --[01;31m[KWord[m[Kworth.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KFull of spirit of life; effervesc?ng, as liquors;
+      sparkling; as, brick cider.
+      [1913 Webster]
+
+   Syn: Active; lively; agile; alert; nimble; quick; sprightly;
+        vivacious; gay; spirited; animated.
+        [1913 Webster]
+.
+151 "[01;31m[KBrisk[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KBrisk[m[K \[01;31m[KBrisk[m[K\, v. t. & i. [imp. & p. p. {Bricked}; p. pr. & vb.
+   n. {Bricking}.]
+   To make or become lively; to enliven; to animate; to take, or
+   cause to take, an erect or bold attitude; -- usually with up.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

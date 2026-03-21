@@ -1,0 +1,36 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <670106745.2776.1774075216@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[Kdogmatic[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[Kdogmatic[m[K \dog*mat"ic\ (d[o^]g*m[a^]t"[i^]k), n.
+   One of an ancient sect of physicians who went by general
+   principles; -- opposed to the {Empiric}. [01;31m[Kdogmatic[m[K
+.
+151 "[01;31m[Kdogmatic[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[Kdogmatic[m[K \dog*mat"ic\ (d[o^]g*m[a^]t"[i^]k), [01;31m[Kdogmatic[m[Kal
+\dog*mat`ic*al\ (d[o^]g*m[a^]t"[i^]*kal), a. [L. [01;31m[Kdogmatic[m[Kus, Gr.
+   dogmatiko`s, fr. do`gma: cf. F. dogmatique.]
+   [01;31m[K1. [m[KPertaining to a dogma, or to an established and authorized
+      doctrine or tenet.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KAsserting a thing positively and authoritatively;
+      positive; magisterial; hence, arrogantly authoritative;
+      overbearing.
+      [1913 Webster]
+
+            Critics write in a positive, [01;31m[Kdogmatic[m[K way. --
+                                                  Spectator.
+      [1913 Webster]
+
+            [They] are as assertive and [01;31m[Kdogmatic[m[Kal as if they
+            were omniscient.                      -- Glanvill.
+      [1913 Webster]
+
+   {[01;31m[KDogmatic[m[K theology}. Same as {[01;31m[KDogmatic[m[Ks}.
+
+   Syn: Magisterial; arrogant. See {Magisterial}.
+        [1913 Webster]
+.
+250 ok [d/m/c = 2/0/18; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

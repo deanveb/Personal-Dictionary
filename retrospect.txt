@@ -1,0 +1,25 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <657082303.2906.1772873438@dict.dict.org>
+250 ok
+150 2 definitions retrieved
+151 "[01;31m[KRetrospect[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KRetrospect[m[K \Re"tro*spect\, v. i. [L. retrospicere; retro back +
+   specere, spectum, to look. See {Spy}, and cf. {Expect}.]
+   To look backward; hence, to affect or concern what is past.
+   [1913 Webster]
+
+         It may be useful to [01;31m[Kretrospect[m[K to an early period. --A.
+                                                  Hamilton.
+   [1913 Webster]
+.
+151 "[01;31m[KRetrospect[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KRetrospect[m[K \Re"tro*spect\, n.
+   A looking back on things past; view or contemplation of the
+   past. --Cowper.
+   [1913 Webster]
+
+         We may introduce a song without [01;31m[Kretrospect[m[K to the old
+         comedy.                                  --Landor.
+   [1913 Webster]
+.
+250 ok [d/m/c = 2/0/17; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]

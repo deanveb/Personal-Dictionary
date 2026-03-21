@@ -1,0 +1,22 @@
+220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <656366119.928.1772795897@dict.dict.org>
+250 ok
+150 1 definitions retrieved
+151 "[01;31m[KOstracize[m[K" gcide "The Collaborative International Dictionary of English v.0.48"
+[01;31m[KOstracize[m[K \Os"tra*cize\, v. t. [imp. & p. p. {[01;31m[KOstracize[m[Kd}; p.
+   pr. & vb. n. {Ostracizing}.] [Gr. 'ostraki`zein, fr.
+   'o`strakon a tile, a tablet used in voting, a shell; cf.
+   'o`streon oyster, 'oste`on bone. Cf. {Osseous}, {Oyster}.]
+   [01;31m[K1. [m[K(Gr. Antiq.) To exile by ostracism; to banish by a popular
+      vote, as at Athens. --Grote.
+      [1913 Webster]
+
+   [01;31m[K2. [m[KTo banish from society, by a general consent; to exclude
+      from social, political, or private favor; to exclude from
+      conversation or friendship; to shun; as, he was [01;31m[Kostracize[m[Kd
+      by his former friends. A person may be [01;31m[Kostracize[m[Kd by a
+      formal vote or by a widespread but informal agreement.
+      --Marvell.
+      [1913 Webster +PJC]
+.
+250 ok [d/m/c = 1/0/16; 0.000r 0.000u 0.000s]
+221 bye [d/m/c = 0/0/0; 0.000r 0.000u 0.000s]
